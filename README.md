@@ -3,9 +3,6 @@
 
 ## 🔥 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichAdebayo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichAdebayo&layout=compact&theme=radical)
-
 <!-- HELLO WELCOME TO MY GITHUB PROFILE-->
    <div style="width: 100%; overflow-x: auto; text-align: center;">
      <div align="center" style="display: inline-block; margin-right: 1px; overflow: hidden;">
@@ -29,10 +26,9 @@
     
 </div>
 <div align="center" style="width:80%; overflow-x: auto; margin: auto; display: block;"> 
+    <!--  MY VERCEL APP -->
     <img style="width: 450px; height: 80%;" src="https://github-readme-stats.vercel.app/api?username=MichAdebayo&show_icons=true&rank_icon=github&hide_rank=false&show=discussions_started&card_width=400px&theme=radical&border_radius=5.5&line_height=20&number_format=long" alt="GitHub Stats">
-   <!--  MY VERCEL APP -->
-   <!--<img style="width: 450px; height: 80%;" src="http://github-profile-summary-cards-umber.vercel.app/api/cards/username=Mel-iza&show_icons=true&rank_icon=github&hide_rank=false&show=discussions_started&card_width=400px&title_color=E86C85&text_color=FFA39A&icon_color=FF9C8E&bg_color=fffbf7&ring_color=E86C85&border_radius=5.5&line_height=20&number_format=long" alt="GitHub Stats">-->
-      <img style="width: 328px; height: 80%;" src="http://github-profile-summary-cards-umber.vercel.app/api/cards/repos-per-language?username=MichAdebayo&theme=dracula" alt="Top Languages">
+      <img style="width: 328px; height: 80%;" src="http://github-profile-summary-cards-umber.vercel.app/api/cards/repos-per-language?username=MichAdebayo&theme=radical" alt="Top Languages">
 </div>
 
 <!-- TROFÉUS -->
