@@ -1,7 +1,6 @@
 ## Hi there, I'm Michael Adebayo 👋 👋
 
 
-```markdown
 I'm a passionate Data Scientist & AI Engineer with a knack for transforming complex datasets into actionable insights. Welcome to my GitHub profile where I experiment with data, build machine learning models, and explore the limitless possibilities of artificial intelligence.
 
 ## ⚡️ About Me
