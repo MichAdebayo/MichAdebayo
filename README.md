@@ -26,7 +26,7 @@
 
 <!-- ABOUT ME -->   
 <div align="justify">
-<img src="https://github.com/user-attachments/assets/f752e698-9dc5-4fa6-97ce-c645c767e3bb" height="33px"><br>
+<img src="https://github.com/user-attachments/assets/0b2b3ebb-67bc-4910-9664-8a97b6a946a5" height="33px"><br>
 <div align="justify">
    <span style="display: block; text-align: center; font-size: 10px;" 
 
