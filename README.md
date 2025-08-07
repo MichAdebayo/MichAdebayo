@@ -10,13 +10,26 @@
 </div>
 
 <!-- FIRST TWO CARDS-->  
-<div align="center" style="width: 100%; overflow-x: auto; text-align: center; padding-top: 20px;"">
-</div>
-<div align="center" style="width:80%; overflow-x: auto; margin: auto; display: block;"> 
+<!-- spacer to push cards down -->
+<div style="height:30px;"></div>
+
+<div align="center" 
+     style="width:80%; 
+            overflow-x:auto; 
+            margin:20px auto 0;  /* 20px top-margin */
+            display:block;">
     <!--  MY VERCEL APP -->
     <img style="width: 450px; height: 80%;" src="https://github-readme-stats.vercel.app/api?username=MichAdebayo&show_icons=true&rank_icon=github&hide_rank=false&show=discussions_started&card_width=400px&theme=radical&border_radius=5.5&line_height=20&number_format=long" alt="GitHub Stats">
-      <img style="width: 328px; height: 80%;" src="http://github-profile-summary-cards-umber.vercel.app/api/cards/repos-per-language?username=MichAdebayo&theme=radical" alt="Top Languages">
+    <img style="width: 328px; height: 80%;" src="http://github-profile-summary-cards-umber.vercel.app/api/cards/repos-per-language?username=MichAdebayo&theme=radical" alt="Top Languages">
 </div>
+
+<!-- <div align="center" style="width: 100%; overflow-x: auto; text-align: center; padding-top: 20px;"">
+</div>
+<div align="center" style="width:80%; overflow-x: auto; margin: auto; display: block;"> 
+     <!-- MY VERCEL APP -->
+    <img style="width: 450px; height: 80%;" src="https://github-readme-stats.vercel.app/api?username=MichAdebayo&show_icons=true&rank_icon=github&hide_rank=false&show=discussions_started&card_width=400px&theme=radical&border_radius=5.5&line_height=20&number_format=long" alt="GitHub Stats">
+      <img style="width: 328px; height: 80%;" src="http://github-profile-summary-cards-umber.vercel.app/api/cards/repos-per-language?username=MichAdebayo&theme=radical" alt="Top Languages">
+</div> -->
 
 <!-- GIT TROPHIES -->
 <div align="center" display="block" style="width:20%; overflow-x: auto;">
