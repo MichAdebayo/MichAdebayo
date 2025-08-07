@@ -5,31 +5,18 @@
 <img src="https://github.com/user-attachments/assets/162e6b9c-571d-43a8-8281-582ee1d7dfaa">
 
 <!-- HELLO WELCOME TO MY GITHUB PROFILE-->
-<div align="center" style="padding-bottom: 20px;">
+<div align="center" style="margin: 0 0 20px 0;">
   <img src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" width="30px" height="30px" align="middle"><img src="https://github.com/user-attachments/assets/0689f59f-78eb-415d-88e3-9d3888fda98c" width="89%" align="middle"><img src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" width="30px" height="30px" align="middle">
 </div>
 
 <!-- FIRST TWO CARDS-->  
-<!-- spacer to push cards down -->
-<div style="height:30px;"></div>
-
-<div align="center" 
-     style="width:80%; 
-            overflow-x:auto; 
-            margin:20px auto 0;  /* 20px top-margin */
-            display:block;">
-    <!--  MY VERCEL APP -->
-    <img style="width: 450px; height: 80%;" src="https://github-readme-stats.vercel.app/api?username=MichAdebayo&show_icons=true&rank_icon=github&hide_rank=false&show=discussions_started&card_width=400px&theme=radical&border_radius=5.5&line_height=20&number_format=long" alt="GitHub Stats">
-    <img style="width: 328px; height: 80%;" src="http://github-profile-summary-cards-umber.vercel.app/api/cards/repos-per-language?username=MichAdebayo&theme=radical" alt="Top Languages">
-</div>
-
-<!-- <div align="center" style="width: 100%; overflow-x: auto; text-align: center; padding-top: 20px;"">
+<div align="center" style="width: 100%; overflow-x: auto; text-align: center;">
 </div>
 <div align="center" style="width:80%; overflow-x: auto; margin: auto; display: block;"> 
      <!-- MY VERCEL APP -->
     <img style="width: 450px; height: 80%;" src="https://github-readme-stats.vercel.app/api?username=MichAdebayo&show_icons=true&rank_icon=github&hide_rank=false&show=discussions_started&card_width=400px&theme=radical&border_radius=5.5&line_height=20&number_format=long" alt="GitHub Stats">
       <img style="width: 328px; height: 80%;" src="http://github-profile-summary-cards-umber.vercel.app/api/cards/repos-per-language?username=MichAdebayo&theme=radical" alt="Top Languages">
-</div> -->
+</div>
 
 <!-- GIT TROPHIES -->
 <div align="center" display="block" style="width:20%; overflow-x: auto;">
