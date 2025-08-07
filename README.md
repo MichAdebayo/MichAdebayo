@@ -12,11 +12,30 @@
 
 <img src="https://github.com/user-attachments/assets/162e6b9c-571d-43a8-8281-582ee1d7dfaa">
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+<div align="center">
+  <img src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" width="30px" height="30px" align="middle"><img src="https://github.com/user-attachments/assets/126fea05-4ec2-4e8b-b58c-ef3242a3e879" width="89%" align="middle"><img src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" width="30px" height="30px" align="middle">
+</div>
+
+<!-- Alternative with table method (more reliable for GitHub) -->
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" width="30px" height="30px"></td>
+      <td><img src="https://github.com/user-attachments/assets/126fea05-4ec2-4e8b-b58c-ef3242a3e879" width="89%"></td>
+      <td><img src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" width="30px" height="30px"></td>
+    </tr>
+  </table>
+</div>
+
+<!-- Simple inline method (most compatible) -->
+<div align="center">
+<img src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" width="30px"> <img src="https://github.com/user-attachments/assets/126fea05-4ec2-4e8b-b58c-ef3242a3e879" width="89%"> <img src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" width="30px">
+</div>
+<!-- <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <img src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" width="30px" style="vertical-align: middle;">
   <img src="https://github.com/user-attachments/assets/126fea05-4ec2-4e8b-b58c-ef3242a3e879" width="89%" style="vertical-align: middle; margin: 0 10px;">
   <img src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" width="30px" style="vertical-align: middle;">
-</div>
+</div> -->
 
   <!-- <img src="https://github.com/user-attachments/assets/c2da8059-e7e0-4980-8172-7079e7150521" height="100px" style="vertical-align: middle; margin: 0 10px;"> -->
 
