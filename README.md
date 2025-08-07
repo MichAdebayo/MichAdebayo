@@ -14,9 +14,11 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/162e6b9c-571d-43a8-8281-582ee1d7dfaa">
   <img src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" width="30px" style="vertical-align: middle;">
-  <img src="https://github.com/user-attachments/assets/c2da8059-e7e0-4980-8172-7079e7150521" height="100px" style="vertical-align: middle; margin: 0 10px;">
+  <img src="https://github.com/user-attachments/assets/126fea05-4ec2-4e8b-b58c-ef3242a3e879" height="100px" style="vertical-align: middle; margin: 0 10px;">
   <img src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" width="30px" style="vertical-align: middle;">
 </div>
+
+  <!-- <img src="https://github.com/user-attachments/assets/c2da8059-e7e0-4980-8172-7079e7150521" height="100px" style="vertical-align: middle; margin: 0 10px;"> -->
 
 <!-- FIRST TWO CARDS-->  
 <div align="center" style="width: 100%; overflow-x: auto; text-align: center;"">
