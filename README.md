@@ -4,13 +4,19 @@
 
 
 <!-- HELLO WELCOME TO MY GITHUB PROFILE-->
-   <div style="width: 100%; overflow-x: auto; text-align: center;">
+   <!-- <div style="width: 100%; overflow-x: auto; text-align: center;">
      <div align="center" style="display: inline-block; margin-right: 1px; overflow: hidden;">
         <img src="https://github.com/user-attachments/assets/162e6b9c-571d-43a8-8281-582ee1d7dfaa">
         <img width="30px" height="auto" src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64">
         <img  valign="center" src="https://github.com/user-attachments/assets/c2da8059-e7e0-4980-8172-7079e7150521" width="80%" height="auto"> <img width="30px" height="auto" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64"><br>
-  </div><br>
+  </div><br> -->
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/162e6b9c-571d-43a8-8281-582ee1d7dfaa">
+  <img src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" width="30px" style="vertical-align: middle;">
+  <img src="https://github.com/user-attachments/assets/c2da8059-e7e0-4980-8172-7079e7150521" height="100px" style="vertical-align: middle; margin: 0 10px;">
+  <img src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" width="30px" style="vertical-align: middle;">
+</div>
 
 <!-- FIRST TWO CARDS-->  
 <div align="center" style="width: 100%; overflow-x: auto; text-align: center;"">
