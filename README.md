@@ -1,7 +1,6 @@
 <!-- PROFILE BANNER-->
-<img width="720" height="333" alt="Image" src="https://github.com/user-attachments/assets/7de8ed72-6498-4989-bd74-76e1ed40b83c" />
 
-<!-- <img align="center" width="2560" height="1440" alt="Image" src="https://github.com/user-attachments/assets/e1400fb2-de8d-4e62-a95b-5fd09cb62c27" /> -->
+<img align="center" width="1200" height="600" alt="Image" src="https://github.com/user-attachments/assets/e1400fb2-de8d-4e62-a95b-5fd09cb62c27" />
 
 
 <!-- HELLO WELCOME TO MY GITHUB PROFILE-->
