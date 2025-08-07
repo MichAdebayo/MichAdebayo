@@ -1,6 +1,6 @@
 <!-- PROFILE BANNER-->
 
-<img align="center" width="1200" height="450" alt="Image" src="https://github.com/user-attachments/assets/60a5bc9e-f819-4aba-be2f-dc2e37e9003f" />
+<img align="center" width="1200" height="450" alt="Image" src="https://github.com/user-attachments/assets/1e2bb33b-7452-45c3-930e-0e5240470df9" />
 
 
 <!-- HELLO WELCOME TO MY GITHUB PROFILE-->
