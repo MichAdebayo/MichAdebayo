@@ -11,7 +11,6 @@
 
 <!-- FIRST TWO CARDS-->  
 <div align="center" style="width: 100%; overflow-x: auto; text-align: center; padding-top: 20px;"">
-    
 </div>
 <div align="center" style="width:80%; overflow-x: auto; margin: auto; display: block;"> 
     <!--  MY VERCEL APP -->
