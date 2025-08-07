@@ -3,6 +3,8 @@
 
 <img align="center" width="2560" height="1440" alt="Image" src="https://github.com/user-attachments/assets/e1400fb2-de8d-4e62-a95b-5fd09cb62c27" />
 
+<img align="center" width="1200px" height="1000" alt="Image" src="https://github.com/user-attachments/assets/e1400fb2-de8d-4e62-a95b-5fd09cb62c27" />
+
 <!-- HELLO WELCOME TO MY GITHUB PROFILE-->
    <div style="width: 100%; overflow-x: auto; text-align: center;">
      <div align="center" style="display: inline-block; margin-right: 1px; overflow: hidden;">
