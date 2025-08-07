@@ -1,7 +1,7 @@
 
 <img align="center" src= "https://github.com/user-attachments/assets/39a067ab-1abf-4aa2-af44-a702bf4d1944" width="1200px">
 
-## 🔥 GitHub Stats
+<img align="center" width="2560" height="1440" alt="Image" src="https://github.com/user-attachments/assets/e1400fb2-de8d-4e62-a95b-5fd09cb62c27" />
 
 <!-- HELLO WELCOME TO MY GITHUB PROFILE-->
    <div style="width: 100%; overflow-x: auto; text-align: center;">
