@@ -6,8 +6,7 @@
 <!-- HELLO WELCOME TO MY GITHUB PROFILE-->
    <div style="width: 100%; overflow-x: auto; text-align: center;">
      <div align="center" style="display: inline-block; margin-right: 1px; overflow: hidden;">
-        <img src="https://github.com/user-attachments/assets/15c00b71-2105-44b8-bb91-f0d5431b9613">
-        <img src="https://github.com/user-attachments/assets/95be33e6-1976-43d6-9ce5-1a5d21318b80">
+        <img src="https://github.com/user-attachments/assets/162e6b9c-571d-43a8-8281-582ee1d7dfaa">
         <img width="30px" height="40px" src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64">
         <img  valign="center" src="https://github.com/user-attachments/assets/9db4c3bc-b732-4182-9ffc-3df42b917ce8" width="89%" height="auto"> <img width="30px" height="40px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64"><br>
   </div><br>
