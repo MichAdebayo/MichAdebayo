@@ -6,7 +6,7 @@
 
 <!-- HELLO WELCOME TO MY GITHUB PROFILE-->
 <div align="center">
-  <img src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" width="30px" height="30px" align="middle"><img src="https://github.com/user-attachments/assets/d3070528-325d-416d-be86-911401dae79a" width="89%" align="middle"><img src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" width="30px" height="30px" align="middle">
+  <img src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" width="30px" height="30px" align="middle"><img src="https://github.com/user-attachments/assets/0689f59f-78eb-415d-88e3-9d3888fda98c" width="89%" align="middle"><img src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" width="30px" height="30px" align="middle">
 </div>
 
 <!-- FIRST TWO CARDS-->  
