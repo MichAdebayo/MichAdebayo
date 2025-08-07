@@ -1,28 +1,13 @@
 <!-- PROFILE BANNER-->
 <img align="center" width="1200" height="450" alt="Image" src="https://github.com/user-attachments/assets/1e2bb33b-7452-45c3-930e-0e5240470df9" />
 
-
-<!-- HELLO WELCOME TO MY GITHUB PROFILE-->
-   <!-- <div style="width: 100%; overflow-x: auto; text-align: center;">
-     <div align="center" style="display: inline-block; margin-right: 1px; overflow: hidden;">
-        <img src="https://github.com/user-attachments/assets/162e6b9c-571d-43a8-8281-582ee1d7dfaa">
-        <img width="30px" height="auto" src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64">
-        <img  valign="center" src="https://github.com/user-attachments/assets/c2da8059-e7e0-4980-8172-7079e7150521" width="80%" height="auto"> <img width="30px" height="auto" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64"><br>
-  </div><br> -->
-
+<!-- SEPARATOR-->
 <img src="https://github.com/user-attachments/assets/162e6b9c-571d-43a8-8281-582ee1d7dfaa">
 
+<!-- HELLO WELCOME TO MY GITHUB PROFILE-->
 <div align="center">
   <img src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" width="30px" height="30px" align="middle"><img src="https://github.com/user-attachments/assets/126fea05-4ec2-4e8b-b58c-ef3242a3e879" width="89%" align="middle"><img src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" width="30px" height="30px" align="middle">
 </div>
-
-<!-- <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <img src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" width="30px" style="vertical-align: middle;">
-  <img src="https://github.com/user-attachments/assets/126fea05-4ec2-4e8b-b58c-ef3242a3e879" width="89%" style="vertical-align: middle; margin: 0 10px;">
-  <img src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" width="30px" style="vertical-align: middle;">
-</div> -->
-
-  <!-- <img src="https://github.com/user-attachments/assets/c2da8059-e7e0-4980-8172-7079e7150521" height="100px" style="vertical-align: middle; margin: 0 10px;"> -->
 
 <!-- FIRST TWO CARDS-->  
 <div align="center" style="width: 100%; overflow-x: auto; text-align: center;"">
@@ -37,13 +22,11 @@
 <!-- GIT TROPHIES -->
 <div align="center" display="block" style="width:20%; overflow-x: auto;">
    <img height="300cm" width="300cm" style="max-width: 770px; width: 770px; height: 95px;" src="https://github-profile-trophy.vercel.app/?username=MichAdebayo&no-frame=true&theme=dracula&title=Joined2020,Repositories,Experience,Star,Followers,Commit,PR,Issues&column=8&row=1&margin-w=10"> <br>
-
-<!-- TROFÉU POR RANK   <img height="200cm" width="300cm" style="max-width: 720px; width: 720px; height: 80px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&no-frame=true&theme=flat&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=8&row=1&margin-w=4"> <br> -->
 </div><br>
 
 <!-- ABOUT ME -->   
 <div align="justify">
-<img src="https://github.com/user-attachments/assets/17a89a74-d15e-4703-9f0d-061e7fe91ea4" height="33px"><br>
+<img src="https://github.com/user-attachments/assets/f752e698-9dc5-4fa6-97ce-c645c767e3bb" height="33px"><br>
 <div align="justify">
    <span style="display: block; text-align: center; font-size: 10px;" 
 
