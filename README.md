@@ -5,9 +5,11 @@
 <img src="https://github.com/user-attachments/assets/162e6b9c-571d-43a8-8281-582ee1d7dfaa">
 
 <!-- HELLO WELCOME TO MY GITHUB PROFILE-->
-<div align="center" style="margin: 0 0 100px 0;">
+<div align="center">
   <img src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" width="30px" height="30px" align="middle"><img src="https://github.com/user-attachments/assets/0689f59f-78eb-415d-88e3-9d3888fda98c" width="89%" align="middle"><img src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" width="30px" height="30px" align="middle">
 </div>
+
+<div style="height: 40px;"></div>
 
 <!-- FIRST TWO CARDS-->  
 <div align="center" style="width: 100%; overflow-x: auto; text-align: center;">
