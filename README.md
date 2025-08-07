@@ -6,8 +6,8 @@
 
 <!-- HELLO WELCOME TO MY GITHUB PROFILE-->
 <div align="center" style="margin-bottom: 60px;">
-  <img src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" width="30px" height="30px" align="middle"><img src="https://github.com/user-attachments/assets/0689f59f-78eb-415d-88e3-9d3888fda98c" width="89%" align="middle"><img src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" width="30px" height="30px" align="middle">
-</div>
+  <img src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" width="30px" height="30px" align="middle"><img src="https://github.com/user-attachments/assets/0689f59f-78eb-415d-88e3-9d3888fda98c" width="89%" align="middle"><img src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" width="30px" height="30px" align="middle"><br>
+</div><br>
 
 <!-- <div style="height: 40px;"></div> -->
 
