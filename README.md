@@ -8,20 +8,10 @@
      <div align="center" style="display: inline-block; margin-right: 1px; overflow: hidden;">
         <img src="https://github.com/user-attachments/assets/162e6b9c-571d-43a8-8281-582ee1d7dfaa">
         <img width="30px" height="40px" src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64">
-        <img  valign="center" src="https://github.com/user-attachments/assets/9db4c3bc-b732-4182-9ffc-3df42b917ce8" width="89%" height="auto"> <img width="30px" height="40px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64"><br>
+        <img  valign="center" src="https://github.com/user-attachments/assets/41b5d69d-5e1b-4f80-aee0-15c3bfc4572e" width="89%" height="auto"> <img width="30px" height="40px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64"><br>
   </div><br>
 
-<!-- PRIMEIROS 2 CARDS-->  
-<!--
-<div align="center" style="width: 100%; overflow-x: auto; text-align: center;">
-  <div style="display: inline-flex; gap: 10px; align-items: center;">
-    <img style="width: 550px; height: auto;" src="http://github-profile-summary-cards-umber.vercel.app/api/cards/profile-details?username=Mel-iza&theme=florescent_dahlia" alt="Profile Details">
-    <img style="width: 265px; height: auto;" src="http://github-profile-summary-cards-umber.vercel.app/api/cards/productive-time?username=Mel-iza&theme=florescent_dahlia&utcOffset=8" alt="Productive Time">
-  </div>
-</div>
-<br>
---> 
-
+<!-- FIRST TWO CARDS-->  
 <div align="center" style="width: 100%; overflow-x: auto; text-align: center;"">
     
 </div>
@@ -31,7 +21,7 @@
       <img style="width: 328px; height: 80%;" src="http://github-profile-summary-cards-umber.vercel.app/api/cards/repos-per-language?username=MichAdebayo&theme=radical" alt="Top Languages">
 </div>
 
-<!-- TROFÉUS -->
+<!-- GIT TROPHIES -->
 <div align="center" display="block" style="width:20%; overflow-x: auto;">
    <img height="300cm" width="300cm" style="max-width: 770px; width: 770px; height: 95px;" src="https://github-profile-trophy.vercel.app/?username=MichAdebayo&no-frame=true&theme=dracula&title=Joined2020,Repositories,Experience,Star,Followers,Commit,PR,Issues&column=8&row=1&margin-w=10"> <br>
 
