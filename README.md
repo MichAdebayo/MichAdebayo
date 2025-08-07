@@ -14,9 +14,9 @@
 <div style="width: 100%; overflow-x: auto;">
   <div style="text-align: center; white-space: nowrap;">
     <img src="https://github.com/user-attachments/assets/162e6b9c-571d-43a8-8281-582ee1d7dfaa" style="vertical-align: middle;">
-    <img width="30px" height="10px" src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" style="vertical-align: middle;">
-    <img src="https://github.com/user-attachments/assets/41b5d69d-5e1b-4f80-aee0-15c3bfc4572e" width="50%" style="vertical-align: middle;">
-    <img width="30px" height="10px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" style="vertical-align: middle;">
+    <img width="30px" height="400px" src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" style="vertical-align: middle;">
+    <img src="https://github.com/user-attachments/assets/41b5d69d-5e1b-4f80-aee0-15c3bfc4572e" width="89%" style="vertical-align: middle;">
+    <img width="30px" height="400px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" style="vertical-align: middle;">
   </div>
 </div>
 
