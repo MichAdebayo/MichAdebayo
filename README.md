@@ -24,16 +24,11 @@
    <img height="300cm" width="300cm" style="max-width: 770px; width: 770px; height: 95px;" src="https://github-profile-trophy.vercel.app/?username=MichAdebayo&no-frame=true&theme=dracula&title=Joined2020,Repositories,Experience,Star,Followers,Commit,PR,Issues&column=8&row=1&margin-w=10"> <br>
 </div><br>
 
-<!-- ABOUT ME --> 
-<div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); color: #c9d1d9; padding: 25px; border-radius: 10px; margin: 20px 0; border: 1px solid #30363d;">  
+<!-- ABOUT ME -->   
 <div align="justify">
-<img src="https://github.com/user-attachments/assets/aa8fbdda-3eaf-4b63-b526-4caf828d22e0" height="33px"><br>
+<img src="https://github.com/user-attachments/assets/2d9e35f5-c9b2-4f6e-873e-d30b7043c706" height="33px"><br>
 <div align="justify">
    <span style="display: block; text-align: center; font-size: 10px;" 
-
-  
-  <!-- <div align="justify" style="margin-top: 15px;">
-    <span style="display: block; text-align: center; font-size: 10px;"> -->
 
 
 <!-- Hello, I’m Mel! (She/Her). I work as a Machine Learning Engineer in the Technology and Innovation department at Weni by VTEX. I primarily work with deep learning applied to NLP, focusing on large language models (LLMs) and AI Agents. As a Machine Learning Engineer, I engage in various tasks, such as developing and optimizing models, fine-tuning hyperparameters, and designing workflows for training, evaluation, and monitoring AI models.
