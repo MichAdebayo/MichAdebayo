@@ -42,9 +42,9 @@
   <span">
     fuel my drive to exchange ideas, ask insightful questions, and explore creative solutions.  
   </span>  <br>
-      <!-- ALWAYS LEARNING -->
-     <div style="text-align: center; font-size: 10px; margin: 10px 0 ; padding-left: 20px;">
-      <img src="https://github.com/user-attachments/assets/ae926104-62df-4063-a5e8-17ea549194dc" height="18px" style="vertical-align: middle; margin-right: 5px;">
+      <!-- RESEARCH AND REPRODUCIBILITY -->
+    <div style="display: flex; align-items: flex-start; justify-content: center; font-size: 12px; margin: 8px 0; padding-left: 14px;">
+      <img src="https://github.com/user-attachments/assets/636a631f-949a-4950-80a9-01444fb64888" height="18px" style="vertical-align: middle; margin-right: 5px;">
   <span>
     guide my work, ensuring every result is evidence-based, transparent, and easy for others to build upon.
   </span>  <br>
