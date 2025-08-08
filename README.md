@@ -36,7 +36,7 @@
    </span>
    <div align="justify "style="display: block;">
       <!--<img src="https://github.com/user-attachments/assets/6d8c27d0-4b7d-4194-a6ba-e24de3120628" height="19cm"> -->
-      <img src="https://github.com/user-attachments/assets/7a527061-de6b-44aa-9054-288e662de3d7" height="33px"> <br>
+      <img src="https://github.com/user-attachments/assets/bff3a6a9-ebf6-4905-b085-9f37a0eadf2e" height="33px"> <br>
      <!-- PASSIONATE ABOUT -->
    <div style="text-align: center; font-size: 10px; margin: 10px 0; padding-left: 20px;">
       <img src="https://github.com/user-attachments/assets/da5f5dff-088b-4d58-8ebc-c3f752dd861a" height="18px" style="vertical-align: middle; margin-right: 5px;">
