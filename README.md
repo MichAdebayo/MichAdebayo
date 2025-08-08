@@ -31,14 +31,7 @@
 <div align="justify">
    <span style="display: block; text-align: center; font-size: 10px;" 
 
-
-<!-- Hello, I’m Mel! (She/Her). I work as a Machine Learning Engineer in the Technology and Innovation department at Weni by VTEX. I primarily work with deep learning applied to NLP, focusing on large language models (LLMs) and AI Agents. As a Machine Learning Engineer, I engage in various tasks, such as developing and optimizing models, fine-tuning hyperparameters, and designing workflows for training, evaluation, and monitoring AI models.
-
-I’ve been discovering my true passion in Responsible AI & LLM Security. I’ve been deepening my knowledge in evaluating model performance with an emphasis on security, developing security metrics, and collecting feedback to improve guardrails and safety policies. I actively work on developing processes to assess and enhance model guardrails, designing safety mechanisms, and ensuring responsible AI deployment.
-
-I recently graduated in Systems Development and hold a bachelor’s degree in Philosophy. I completed the Data Science & Machine Learning course at Tera, where I later worked as a project tutor and learning facilitator.-->
-<img height="12px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2"> Hello, I'm Mel! (She/Her). My academic journey includes a bachelor's degree in Philosophy (which informs my AI ethics perspective), a degree in Systems Development, a professional certification in Data Science & Machine Learning from Tera (where I later served as tutor) and an upcoming MBA in Data Science & Analytics at USP.
-As a Machine Learning Engineer at Weni by VTEX's Technology and Innovation department, I specialize in Large Language Models (LLMs) and AI Agents, with a growing expertise in Responsible AI & LLM Security. My work focuses on developing secure NLP systems while implementing robust evaluation frameworks to ensure ethical AI deployment.
+<img height="12px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2"> Hello, I'm Michael (He/him) and I hold a  PhD. in Environmental Geosciences from Aix-Marseille. During my doctoral studies, I leveraged a state-of-the-art imaging machine to generate images, trained multiple convolutional neural networks (CNNs), and developed models for predicting past temperatures in the Indian Ocean. My education also includes degrees in Botany and professional certifications in Data Science and AI Development. As a Data Scientist at Insitoo Freelances, I specialize in building machine learning models and integrating NLP systems into our platform. My primary focus is on developing recommendation systems that provide valuable insights to both clients and freelancers, which increases the likelihood of a successful match. With growing expertise in MLOps & DevOps, I enjoy leveraging automation, ML and AI in creating value in the workplace.
 
    </span>
    <div align="justify "style="display: block;">
