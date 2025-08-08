@@ -40,20 +40,20 @@
      <!-- COLLABORATION AND CURIOSITY -->
    <div style="text-align: center; font-size: 10px; margin: 5px 0; display: inline-flex; align-items: center; padding-left: 20px;">
       <img src="https://github.com/user-attachments/assets/26fe07bd-3d47-4712-9d78-bcec33dec347" height="33px" style="vertical-align: middle; margin-right: 5px;">
-  <span style="vertical-align: middle;">
-    I thrive on exchanging ideas, asking better questions, and exploring new ways to solve problems.   
+  <span style="vertical-align: middle; margin-top: -8px;">
+    fuel my drive to exchange ideas, ask insightful questions, and explore creative solutions.  
   </span>  <br>
       <!-- ALWAYS LEARNING -->
      <div style="text-align: center; font-size: 10px; margin: 10px 0 ; padding-left: 20px;">
       <img src="https://github.com/user-attachments/assets/ae926104-62df-4063-a5e8-17ea549194dc" height="18px" style="vertical-align: middle; margin-right: 5px;">
   <span>
-    through collaboration with teams and colleagues, constantly improving my technical abilities.
+    guide my work, ensuring every result is evidence-based, transparent, and easy for others to build upon.
   </span>  <br>
         <!-- THRIVE IN -->
       <div style="text-align: center; font-size: 10px; margin: 10px 0; padding-left: 20px;">
       <img src="https://github.com/user-attachments/assets/cb46a099-0a05-4f00-bd54-c8e980650770" height="15px" style="vertical-align: middle; margin-right: 5px;">
   <span>
-    collaborative environments where knowledge sharing and teamwork are valued. I do my best work when surrounded by people who are passionate about helping each other grow.
+    keeps me evolving, as I expand my skills through projects, teamwork, and staying ahead of new trends.
   </span>  <br>
 </div>
 </div>
