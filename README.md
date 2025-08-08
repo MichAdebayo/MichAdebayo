@@ -38,10 +38,10 @@
       <!--<img src="https://github.com/user-attachments/assets/6d8c27d0-4b7d-4194-a6ba-e24de3120628" height="19cm"> -->
       <img src="https://github.com/user-attachments/assets/bff3a6a9-ebf6-4905-b085-9f37a0eadf2e" height="33px"> <br>
      <!-- COLLABORATION AND CURIOSITY -->
-   <div style="text-align: center; font-size: 10px; margin: 5px 0; padding-left: 20px;">
+   <div style="text-align: center; font-size: 10px; margin: 5px 0; display: inline-flex; align-items: center; gap: 8px;">
       <img src="https://github.com/user-attachments/assets/26fe07bd-3d47-4712-9d78-bcec33dec347" height="35px" style="vertical-align: middle; margin-right: 2px;">
-  <span>
-    AI/NLP with social impact, Gender-inclusive AI development, LLM vulnerability mitigation   
+  <span style="vertical-align: middle;">
+    I thrive on exchanging ideas, asking better questions, and exploring new ways to solve problems.   
   </span>  <br>
       <!-- ALWAYS LEARNING -->
      <div style="text-align: center; font-size: 10px; margin: 10px 0 ; padding-left: 20px;">
