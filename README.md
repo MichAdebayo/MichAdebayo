@@ -48,9 +48,9 @@
   <span>
     guide my work, ensuring every result is evidence-based, transparent, and easy for others to build upon.
   </span>  <br>
-        <!-- THRIVE IN -->
-      <div style="text-align: center; font-size: 10px; margin: 10px 0; padding-left: 20px;">
-      <img src="https://github.com/user-attachments/assets/cb46a099-0a05-4f00-bd54-c8e980650770" height="15px" style="vertical-align: middle; margin-right: 5px;">
+      <!-- CONTINUOUS LEARNING -->
+    <div style="display: flex; align-items: flex-start; justify-content: center; font-size: 12px; margin: 8px 0; padding-left: 16px;">
+      <img src="https://github.com/user-attachments/assets/8a1eec57-76f2-47c4-b93f-94d915e545a0" height="18px" style="vertical-align: middle; margin-right: 5px;">
   <span>
     keeps me evolving, as I expand my skills through projects, teamwork, and staying ahead of new trends.
   </span>  <br>
