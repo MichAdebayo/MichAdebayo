@@ -42,17 +42,17 @@
   <span">
     fuel my drive to exchange ideas, ask insightful questions, and explore creative solutions.  
   </span>  <br>
+      <!-- CONTINUOUS LEARNING -->
+    <div style="display: flex; align-items: flex-start; justify-content: center; font-size: 12px; margin: 8px 0; padding-left: 16px;">
+      <img src="https://github.com/user-attachments/assets/8a1eec57-76f2-47c4-b93f-94d915e545a0" height="18px" style="vertical-align: middle; margin-right: 5px;">
+  <span>
+    keeps me evolving, as I expand my skills through projects, teamwork, and staying ahead of new trends. 
+  </span>  <br>
       <!-- RESEARCH AND REPRODUCIBILITY -->
     <div style="display: flex; align-items: flex-start; justify-content: center; font-size: 12px; margin: 8px 0; padding-left: 16px;">
       <img src="https://github.com/user-attachments/assets/636a631f-949a-4950-80a9-01444fb64888" height="18px" style="vertical-align: middle; margin-right: 5px;">
   <span>
     guide my work, ensuring every result is evidence-based, transparent, and easy for others to build upon.
-  </span>  <br>
-      <!-- CONTINUOUS LEARNING -->
-    <div style="display: flex; align-items: flex-start; justify-content: center; font-size: 12px; margin: 8px 0; padding-left: 16px;">
-      <img src="https://github.com/user-attachments/assets/8a1eec57-76f2-47c4-b93f-94d915e545a0" height="18px" style="vertical-align: middle; margin-right: 5px;">
-  <span>
-    keeps me evolving, as I expand my skills through projects, teamwork, and staying ahead of new trends.
   </span>  <br>
 </div>
 </div>
