@@ -29,7 +29,7 @@
 <div align="justify">
 <img src="https://github.com/user-attachments/assets/2d9e35f5-c9b2-4f6e-873e-d30b7043c706" height="33px"><br>
 <div align="justify">
-   <span style="display: block; text-align: center; font-size: 10px;" 
+   <span style="display: block; text-align: center; font-size: 12px;" 
 
 <img height="12px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2"> Hello, I'm Michael (He/him) and I hold a  PhD. in Environmental Geosciences from Aix-Marseille. During my doctoral studies, I leveraged a state-of-the-art imaging machine to generate images, trained multiple convolutional neural networks (CNNs), and developed models for predicting temperatures in the Indian Ocean. My education also includes degrees in Botany and professional certifications in Data Science and AI Development. As a Data Scientist at Insitoo Freelances, I specialize in building machine learning models and integrating NLP systems into our platform. My primary focus is on developing recommendation systems that provide data-driven recommendations, increasing the probability of a successful match between clients and freelancers. With growing expertise in MLOps & DevOps, I enjoy leveraging automation, machine learning and AI in creating value in the workplace.
 
@@ -37,7 +37,7 @@
    <div align="justify "style="display: block;">
       <img src="https://github.com/user-attachments/assets/bff3a6a9-ebf6-4905-b085-9f37a0eadf2e" height="33px"> <br>
      <!-- COLLABORATION AND CURIOSITY -->
-   <div style="display: flex; align-items: flex-start; justify-content: center; font-size: 10px; margin: 8px 0; padding-left: 14px;">
+   <div style="display: flex; align-items: flex-start; justify-content: center; font-size: 12px; margin: 8px 0; padding-left: 14px;">
       <img src="https://github.com/user-attachments/assets/559a5b79-fc9b-4f15-b5b6-c1d3dcd6f158" height="18px" style="vertical-align: middle; margin-right: 5px;">
   <span">
     fuel my drive to exchange ideas, ask insightful questions, and explore creative solutions.  
