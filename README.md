@@ -37,8 +37,8 @@
    <div align="justify "style="display: block;">
       <img src="https://github.com/user-attachments/assets/bff3a6a9-ebf6-4905-b085-9f37a0eadf2e" height="33px"> <br>
      <!-- COLLABORATION AND CURIOSITY -->
-   <div style="display: flex; align-items: flex-start; justify-content: center; font-size: 10px; margin: 5px 0; padding-left: 20px;">
-      <img src="https://github.com/user-attachments/assets/559a5b79-fc9b-4f15-b5b6-c1d3dcd6f158" height="26px" style="vertical-align: middle; margin-right: 5px;">
+   <div style="display: flex; align-items: flex-start; justify-content: center; font-size: 10px; margin: 5px 0; padding-left: 18px;">
+      <img src="https://github.com/user-attachments/assets/559a5b79-fc9b-4f15-b5b6-c1d3dcd6f158" height="22px" style="vertical-align: middle; margin-right: 5px;">
   <span">
     fuel my drive to exchange ideas, ask insightful questions, and explore creative solutions.  
   </span>  <br>
