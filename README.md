@@ -59,8 +59,8 @@
 </div>
 </div>
 
-<!-- SEPARADOR -->
-<img src="https://github.com/user-attachments/assets/15c00b71-2105-44b8-bb91-f0d5431b9613"> 
+<!-- SEPARATOR -->
+<img src="https://github.com/user-attachments/assets/162e6b9c-571d-43a8-8281-582ee1d7dfaa"> 
 
 
 <!-- PROJECTS, STUDIES AND GOAL -->
