@@ -40,7 +40,7 @@
      <!-- COLLABORATION AND CURIOSITY -->
    <div style="text-align: center; font-size: 10px; margin: 5px 0; display: inline-flex; align-items: center; padding-left: 20px;">
       <img src="https://github.com/user-attachments/assets/26fe07bd-3d47-4712-9d78-bcec33dec347" height="33px" style="vertical-align: middle; margin-right: 5px;">
-  <span style="vertical-align: middle; margin-top: -8px;">
+  <span style="vertical-align: middle; margin-top: -30px;">
     fuel my drive to exchange ideas, ask insightful questions, and explore creative solutions.  
   </span>  <br>
       <!-- ALWAYS LEARNING -->
