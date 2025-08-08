@@ -38,9 +38,9 @@
       <!--<img src="https://github.com/user-attachments/assets/6d8c27d0-4b7d-4194-a6ba-e24de3120628" height="19cm"> -->
       <img src="https://github.com/user-attachments/assets/bff3a6a9-ebf6-4905-b085-9f37a0eadf2e" height="33px"> <br>
      <!-- COLLABORATION AND CURIOSITY -->
-   <div style="text-align: center; font-size: 10px; margin: 5px 0; display: inline-flex; align-items: center; padding-left: 20px;">
+   <div style="display: flex; align-items: center; justify-content: center; font-size: 10px; margin: 5px 0; padding-left: 20px;">
       <img src="https://github.com/user-attachments/assets/26fe07bd-3d47-4712-9d78-bcec33dec347" height="33px" style="vertical-align: middle; margin-right: 5px;">
-  <span style="vertical-align: middle; margin-bottom: 70px;">
+  <span">
     fuel my drive to exchange ideas, ask insightful questions, and explore creative solutions.  
   </span>  <br>
       <!-- ALWAYS LEARNING -->
