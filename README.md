@@ -37,9 +37,9 @@
    <div align="justify "style="display: block;">
       <!--<img src="https://github.com/user-attachments/assets/6d8c27d0-4b7d-4194-a6ba-e24de3120628" height="19cm"> -->
       <img src="https://github.com/user-attachments/assets/bff3a6a9-ebf6-4905-b085-9f37a0eadf2e" height="33px"> <br>
-     <!-- PASSIONATE ABOUT -->
+     <!-- COLLABORATION AND CURIOSITY -->
    <div style="text-align: center; font-size: 10px; margin: 10px 0; padding-left: 20px;">
-      <img src="https://github.com/user-attachments/assets/da5f5dff-088b-4d58-8ebc-c3f752dd861a" height="18px" style="vertical-align: middle; margin-right: 5px;">
+      <img src="https://github.com/user-attachments/assets/9635123e-5093-45c0-b283-d0290d50ecf9" height="18px" style="vertical-align: middle; margin-right: 5px;">
   <span>
     AI/NLP with social impact, Gender-inclusive AI development, LLM vulnerability mitigation   
   </span>  <br>
