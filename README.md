@@ -39,7 +39,7 @@
       <img src="https://github.com/user-attachments/assets/bff3a6a9-ebf6-4905-b085-9f37a0eadf2e" height="33px"> <br>
      <!-- COLLABORATION AND CURIOSITY -->
    <div style="display: flex; align-items: center; justify-content: center; font-size: 10px; margin: 5px 0; padding-left: 20px;">
-      <img src="https://github.com/user-attachments/assets/36e67e9c-7411-48b2-8d51-5a48f528b698" height="33px" style="vertical-align: middle; margin-right: 5px;">
+      <img src="https://github.com/user-attachments/assets/36e67e9c-7411-48b2-8d51-5a48f528b698" height="22px" style="vertical-align: middle; margin-right: 5px;">
   <span">
     fuel my drive to exchange ideas, ask insightful questions, and explore creative solutions.  
   </span>  <br>
