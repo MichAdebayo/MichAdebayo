@@ -92,8 +92,8 @@
                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
       </td>
       <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-           <!-- KERAS -->
-           <img src="https://github.com/user-attachments/assets/a82bc809-dc92-443e-ac79-8e27485e331f" 
+           <!-- KUBERNETES -->
+           <img src="https://github.com/user-attachments/assets/4cca23fd-26af-432e-88f5-2ae7cffc314f" 
                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
       </td>
       <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
