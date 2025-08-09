@@ -67,10 +67,12 @@
 | **Category**                      | **Technologies** |
 |------------------------------------|-----------------|
 | **Operating Systems**              | ![Apple](https://img.shields.io/badge/APPLE-000000?logo=apple&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/LINUX-fcc624?logo=linux&logoColor=black&style=for-the-badge) ![Windows](https://img.shields.io/badge/WINDOWS-0078d4?logo=windows&logoColor=white&style=for-the-badge) |
+| **Development Environments** | ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge) |
 | **DevOps & CI/CD**                 | ![Git](https://img.shields.io/badge/GIT-f05032?logo=git&logoColor=white&style=for-the-badge) ![GitHub](https://img.shields.io/badge/GITHUB-181717?logo=github&logoColor=white&style=for-the-badge) ![Docker](https://img.shields.io/badge/DOCKER-2496ED?logo=docker&logoColor=white&style=for-the-badge) |
-| **Programming Languages & Libraries** | ![Python](https://img.shields.io/badge/PYTHON-3776ab?logo=python&logoColor=white&style=for-the-badge) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white&style=for-the-badge) |
-| **Notebook Environments** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge) |
-| **Machine Learning & AI Frameworks** | ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge) |
+| **Programming Languages & Libraries** | ![Python](https://img.shields.io/badge/PYTHON-3776ab?logo=python&logoColor=white&style=for-the-badge) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white&style=for-the-badge) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge)|
+| **Notebooks** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge) ![JupyterLab](https://img.shields.io/badge/JupyterLab-F37626?logo=jupyter&logoColor=white&style=for-the-badge) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge) |
+| **Machine Learning & AI Frameworks** | ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge) ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?logo=huggingface&logoColor=black&style=for-the-badge)|
+| **Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge) ![Seaborn](https://img.shields.io/badge/Seaborn-76B7B2?logo=seaborn&logoColor=white&style=for-the-badge) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge) ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge) |
 | **Big Data & Data Engineering**    | ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apache-spark&logoColor=white&style=for-the-badge) ![Azure Data Lake](https://img.shields.io/badge/AzureDataLake-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge) |
 | **Cloud Platforms & Services**     | ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge) ![Azure Certifications](https://img.shields.io/badge/AZ900_&_AI900_Certified-0089D6?logo=microsoft&logoColor=white&style=for-the-badge) |
 | **Web Development & APIs**         | ![HTML5](https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white&style=for-the-badge) ![Django](https://img.shields.io/badge/DJANGO-092E20?logo=django&logoColor=white&style=for-the-badge) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge) ![FastAPI](https://img.shields.io/badge/FASTAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
@@ -82,166 +84,6 @@
 <!-- I'M LEARNING AND HOBBIES -->
 <img align="center" height="25px" style="max-width:px ; width:; height:25px ;" src="https://github.com/user-attachments/assets/caf8a498-423e-4a31-8bd6-08aa2415714c"><br>
    Technologies, tools and frameworks I have had contact with or have closer contact with in my daily work and am learning today. I have a bit more familiarity and am in a continuous learning process with these technologies.
-   <div style="display: block;">
-  <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none !important; background-color: transparent !important;">
-     <tbody> 
-       <tr style="border: none !important; background-color: transparent !important;"> 
-               <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-        <!-- PYTHON -->
-        <img src="https://github.com/user-attachments/assets/b10085e0-514f-4b0f-b816-fdf3de447323" 
-             style="width: 100%; height: 100%; object-fit: contain; display: block;">
-      </td>
-      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-        <!-- GIT -->
-        <img height="35px" src="https://github.com/user-attachments/assets/444806ca-4afd-4363-9322-0f3789d26288"
-             style="width: 100%; height: 100%; object-fit: contain; display: block;">
-      </td>
-      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-        <!-- GITHUB -->
-        <img height="35px" src="https://github.com/user-attachments/assets/3723eba6-89da-4d91-8367-3aa402075184"
-             style="width: 100%; height: 100%; object-fit: contain; display: block;">
-      </td>
-      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-        <!-- JUPYTER -->
-        <img height="35" src="https://github.com/user-attachments/assets/74140ad2-7a4f-4862-8b8f-aecaee82b2f9"
-             style="width: 100%; height: 100%; object-fit: contain; display: block;">
-      </td>
-      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-        <!-- GOOGLE COLAB -->
-        <img height="35px" src="https://github.com/user-attachments/assets/57e0db6d-1106-4a9a-ad81-3d5f110d014f"
-             style="width: 100%; height: 100%; object-fit: contain; display: block;">
-      </td>
-      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-        <!-- NANO -->
-        <img height="35px" src="https://github.com/user-attachments/assets/27daf587-a046-4034-bc27-a39aac17916f"
-             style="width: 100%; height: 100%; object-fit: contain; display: block;">
-      </td>
-      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-        <!-- LINUX -->
-        <img height="35px" src="https://github.com/user-attachments/assets/8d65a854-2748-4766-8c4f-5a8a0ad78a51"
-             style="width: 100%; height: 100%; object-fit: contain; display: block;">
-      </td>
-      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-        <!-- VSCODE -->
-        <img height="35px" src="https://github.com/user-attachments/assets/04f35a6c-e59f-47bd-b5d7-7fbb027727e2"
-             style="width: 100%; height: 100%; object-fit: contain; display: block;">
-      </td>
-      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-        <!-- DOCKER -->
-        <img height="35px" src="https://github.com/user-attachments/assets/d0c7fc2e-d7fb-4dbf-80d3-bfc90538e59a"
-             style="width: 100%; height: 100%; object-fit: contain; display: block;">
-      </td>
-      </tr>
-      <tr> 
-      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-        <!-- FASTAPI -->
-        <img height="35px" src="https://github.com/user-attachments/assets/21ac3fd3-0a17-48dd-b119-ea06133b880c"
-             style="width: 100%; height: 100%; object-fit: contain; display: block;">
-      </td>
-      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-        <!-- STREAMLIT -->
-        <img height="35px" src="https://github.com/user-attachments/assets/7323b5b2-8f1d-478e-be39-858605f80193"
-             style="width: 100%; height: 100%; object-fit: contain; display: block;">
-      </td>
-      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-        <!-- NGROK -->
-        <img height="35px" src="https://github.com/user-attachments/assets/9587eb9f-544f-461e-941a-c25a28a66fc5"
-             style="width: 100%; height: 100%; object-fit: contain; display: block;">
-      </td>
-      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-        <!-- VERCEL -->
-        <img height="35px" src="https://github.com/user-attachments/assets/e35addb5-9482-47cc-8dd5-5088e2461cfe"
-             style="width: 100%; height: 100%; object-fit: contain; display: block;">
-      </td>
-      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-        <!-- INSOMNIA -->
-        <img height="35px" src="https://github.com/user-attachments/assets/5452cfcc-0893-4397-9306-78cd86f1ac09"
-             style="width: 100%; height: 100%; object-fit: contain; display: block;">
-      </td>
-      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-        <!-- POSTMAN -->
-        <img height="35px" src="https://github.com/user-attachments/assets/9db257d9-7de9-40a2-b3b1-552c28813630"
-             style="width: 100%; height: 100%; object-fit: contain; display: block;">
-      </td>
-      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-        <!-- RUNPOD -->
-        <img height="35px" src="https://github.com/user-attachments/assets/8a309d5e-81c1-426f-aef4-7fc41dd3b581"
-             style="width: 100%; height: 100%; object-fit: contain; display: block;">
-      </td>
-      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-        <!-- HUGGINGFACE -->
-        <img height="35px" src="https://github.com/user-attachments/assets/0e52b3b6-938e-4b28-bf1b-ecdb6d2e59cf"
-             style="width: 100%; height: 100%; object-fit: contain; display: block;">
-      </td>
-      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-        <!-- WEIGHTS AND BIASES -->
-        <img height="35px" src="https://github.com/user-attachments/assets/092d668e-6708-431b-b5b3-0bf1b87b42f5"
-             style="width: 100%; height: 100%; object-fit: contain; display: block;">
-      </td>
-      </tr>
-      <tr> 
-      <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-        <!-- AWS Bedrock -->
-        <img height="35px" src="https://github.com/user-attachments/assets/0ce8394f-00e2-4aa1-aa42-966423018e9d"
-             style="width: 100%; height: 100%; object-fit: contain; display: block;">
-      </td>
-      <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-        <!-- PYTEST -->
-        <img height="35px" src="https://github.com/user-attachments/assets/8623bb27-8134-46ff-a141-b9f9fdffcba0"
-             style="width: 100%; height: 100%; object-fit: contain; display: block;">
-      </td>
-      <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-        <!-- ANACONDA -->
-        <img height="35px" src="https://github.com/user-attachments/assets/d5fa245e-fd39-498d-8b37-8e0f5db7f346"
-             style="width: 100%; height: 100%; object-fit: contain; display: block;">
-      </td>
-      <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-        <!-- PANDAS -->
-        <img height="35px" src="https://github.com/user-attachments/assets/1eb3d9a7-9b74-44e4-8826-9125d666c099"
-             style="width: 100%; height: 100%; object-fit: contain; display: block;">
-      </td>
-      <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-        <!-- SCIKIT LEARN -->
-        <img height="35px" src="https://github.com/user-attachments/assets/d1f03cfe-7fee-4856-b376-d60fe2c1725f"
-             style="width: 100%; height: 100%; object-fit: contain; display: block;">
-      </td>
-      <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-        <!-- SEABORN -->
-        <img height="35px" src="https://github.com/user-attachments/assets/eca239bc-ff2c-44a2-9839-0dae5f0542dd"
-             style="width: 100%; height: 100%; object-fit: contain; display: block;">
-      </td>
-      <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-        <!-- NUMPY -->
-        <img height="35px" src="https://github.com/user-attachments/assets/d7fa66a1-33aa-4523-92ef-fc3d59700277"
-             style="width: 100%; height: 100%; object-fit: contain; display: block;">
-      </td>
-      <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-        <!-- SQL -->
-        <img height="35px" src="https://github.com/user-attachments/assets/2bae58e9-5a0f-47a1-9134-9ea114e9879b"
-             style="width: 100%; height: 100%; object-fit: contain; display: block;">
-      </td>
-      <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-        <!-- PYTORCH -->
-        <img height="35px" src="https://github.com/user-attachments/assets/6a348897-2129-4f94-904d-5f15fdc5375a" 
-             style="width: 100%; height: 100%; object-fit: contain; display: block;">
-      </td>
-      </tr>
-         </tr>
-     <tr>
-         <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-        <!-- AWS LAMBDA -->
-        <img height="35px" src="https://github.com/user-attachments/assets/6739686e-6cd5-4e46-91ed-912d6c8dd102" 
-             style="width: 100%; height: 100%; object-fit: contain; display: block;">
-      </td>
-      <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-        <!-- Fask-->
-        <img height="35px" src="https://github.com/user-attachments/assets/5e8e427b-dba2-45d8-969f-074d333f148e" 
-             style="width: 100%; height: 100%; object-fit: contain; display: block;">
-      </td>  
-     </tr>
-     </tbody>
-   </table>
-
 
 <!-- WISH TO LEARN -->
 <div style="display: block;">
