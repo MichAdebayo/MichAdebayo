@@ -97,8 +97,8 @@
                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
       </td>
       <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-           <!-- BASH -->
-            <img src="https://github.com/user-attachments/assets/7839353e-d612-494b-8225-341f84b83f1b" 
+           <!-- FLASK -->
+            <img src="https://github.com/user-attachments/assets/c253f9ca-1d36-477e-ad14-e1dd71956d8e" 
                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
       </td>  
       <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
