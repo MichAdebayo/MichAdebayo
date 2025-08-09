@@ -27,7 +27,7 @@
 <div align="justify">
    <span style="display: block; text-align: center; font-size: 12px;" 
 
-<img height="12px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2"> Hello, I'm Michael (He/him) and I hold a  PhD. in Environmental Geosciences from Aix-Marseille. During my doctoral studies, I leveraged a state-of-the-art imaging machine to generate images, trained multiple convolutional neural networks (CNNs), and developed models for predicting temperatures in the Indian Ocean. My education also includes degrees in Botany and professional certifications in Data Science and AI Development. As a Data Scientist at Insitoo Freelances, I specialize in building machine learning models and integrating NLP systems into our platform. My primary focus is on developing recommendation systems that provide data-driven recommendations, increasing the probability of a successful match between clients and freelancers. With growing expertise in MLOps & DevOps, I enjoy leveraging automation, machine learning and AI in creating value in the workplace.
+<img height="12px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2"> Hello, I'm Michael (He/him) and I hold a <b>PhD. in Environmental Geosciences</b> from <b>Aix-Marseille</b>. During my doctoral studies, I leveraged a state-of-the-art imaging machine to generate images, trained multiple convolutional neural networks (CNNs), and developed models for predicting temperatures in the Indian Ocean. My education also includes degrees in Botany and <b>professional certifications in Data Science and AI Development</b>. <b>As a Data Scientist at Insitoo Freelances, I specialize in building machine learning models and integrating NLP systems into our platform</b>. My primary focus is on <b>developing recommendation systems that provide data-driven recommendations, increasing the probability of a successful match between clients and freelancers</b>. With growing expertise in MLOps & DevOps, I enjoy leveraging automation, machine learning and AI in creating value in the workplace.
 
    </span>
    <div align="justify "style="display: block;">
@@ -136,7 +136,7 @@
     </table>
    </div>   
 
-Also <b>hobbies</b> I have had experience in non-work contexts, enjoy practicing, or find it to be a very enjoyable activity.<br>
+From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>, <b>Prometheus</b>,<b>N8N</b>, <b>Snowflake</b>, <b>Kafka</b>, and <b>dbt</b>,<br>
  <div style="display: block;">
 <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none !important; background-color: transparent !important;">
      <tbody> 
