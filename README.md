@@ -79,10 +79,11 @@
 | **Databases & ORMs**               | ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
 | **Data Scraping & Automation**      | ![Scrapy](https://img.shields.io/badge/Scrapy-88CCFF?logo=scrapy&logoColor=black&style=for-the-badge) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?logo=python&logoColor=white&style=for-the-badge) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge)|
 | **Agile Methodologies & Tools**     | ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=scrumalliance&logoColor=white&style=for-the-badge) ![Kanban](https://img.shields.io/badge/Kanban-0079BF?logo=trello&logoColor=white&style=for-the-badge) ![JIRA](https://img.shields.io/badge/JIRA-0052CC?logo=jira&logoColor=white&style=for-the-badge) |
+<br>
 
 <!-- TECHNOLOGIES OF INTEREST -->
 <div style="display: block;">
-<img align="center" height="25px" style="max-width:px ; width:; height:25px ;" src="https://github.com/user-attachments/assets/e78a0798-e41f-4779-b3f8-602a7a28b03b"><br>In addition to the tools and frameworks I use regularly, I maintain a focused list of technologies I’m eager to explore and master. These represent areas where I currently have limited hands-on experience but are high on my learning roadmap to expand my expertise.<br><br>
+<img align="center" height="25px" style="height:25px ;" src="https://github.com/user-attachments/assets/e78a0798-e41f-4779-b3f8-602a7a28b03b"><br>In addition to the tools and frameworks I use regularly, I maintain a focused list of technologies I’m eager to explore and master. These represent areas where I currently have limited hands-on experience but are high on my learning roadmap to expand my expertise.<br><br>
     <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none !important; background-color: transparent !important;">
      <tbody> 
        <tr style="border: none !important; background-color: transparent !important;"> 
