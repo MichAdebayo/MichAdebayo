@@ -118,7 +118,7 @@
       </td>  
       <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
            <!-- SNOWFLAKE -->
-            <img src="https://github.com/user-attachments/assets/8979396d-53f5-4e02-99d7-5ae73a5bd8a4" 
+            <img src="https://github.com/user-attachments/assets/e275ca82-4954-482f-98f6-17d2f333833a" 
                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
       </td>      
       <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
