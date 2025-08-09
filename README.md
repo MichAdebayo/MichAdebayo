@@ -324,79 +324,11 @@ Also <b>hobbies</b> I have had experience in non-work contexts, enjoy practicing
 <!-- PROJECTS -->
 <div style="display: block;">
 <img align="center" height="25px" style="max-width:px ; width:; height:25px ;" src="https://github.com/user-attachments/assets/942a72c6-1720-48de-83e9-f4acc0c780cd"><br>
-Here are some projects I've been working on, whether they are projects I might have done early in my learning, after gaining a bit more knowledge, or even the ones I started recently. Get to know some of them:<br><br>
-   <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent; border-spacing: 0;">
-  <tbody>
-    <tr>
-      <td align="center" style="padding:5px; border: none;">
-        <span><a href="https://github.com/Mel-iza/vaccine_fake_news">Vaccine Fake News</a></span>
-      </td>
-      <td align="center" style="padding:5px; border: none;">
-        <span>Part of my <a href="https://ric.cps.sp.gov.br/bitstream/123456789/15180/1/tecnologiaemanaliseedesenvolvimentodesistemas_2023_1%20mel%20iza%20costa%20augusto_%20classificação%20de%20fake%20news%20a%20partir%20de%20dados%20textuais%20com%20machine%20learning.pdf">final course work</a>. I worked with some classification models to identify fake news about vaccination in Brazil with data from the interval between the pandemic and the date close to the period I was working on.</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding:5px; border: none;">
-        <span><a href="https://github.com/Mel-iza/Fast_API/tree/main">A FAST API basic implementation</a></span>
-      </td>
-      <td align="center" style="padding:5px; border: none;">
-        <span>This was a quick project that aimed to test the basic implementation of the Fast API with a json input and return one of the classesThe API receives a json file as input. It will process the file into a dictionary and return one of the dictionary values..</span>
-      </td>
-    </tr>
-    <tr>  
-      <td align="center" style="padding:8px; border: none;">
-        <span><a href="https://github.com/Mel-iza/The-Natural-Language-Processing-Workshop">The Natural Language Processing Workshop</a></span>
-      </td>
-      <td align="center" style="padding:8px; border: none;">
-        <span>This is a project that I started, and I want to continue, which is to study and review the content on natural language processing. The information in the book is very complete about the area.</span>
-      </td>
-    </tr>
-    <tr>  
-      <td align="center" style="padding:8px; border: none;">
-        <span><a href="https://github.com/Mel-iza/Weni_XP_IA">Hands-on sobre Inteligência Artificial do Weni XP</a></span>
-      </td>
-      <td align="center" style="padding:8px; border: none;">
-        <span>This project was a hands-on project that I presented during the <a href="https://doity.com.br/weni-xp#schedule">Weni XP event</a> in 2023. The objective was to provide a basic introduction to the area and show the operating flow of training a basic model - in this case, the chosen one was the classification model.</span>
-      </td>
-    </tr>
-  </tbody>
-</table>
-   </div>
-  
+ Pinned below are a few projects that give a snapshot of my recent works. However, in my repo, you will find projects and resources that showcase my journey in data science — from hands-on beginnings to tackling increasingly complex, real-world challenges. Feel free to explore them. <br><br>
+</div>
 
 <!-- SEPARADOR -->
 <img src="https://github.com/user-attachments/assets/15c00b71-2105-44b8-bb91-f0d5431b9613"> 
-
- <!-- CARDS PROFILE STATUS -->
-<!-- <div align="center" style="width:100%; overflow-x: auto; margin: auto; display: block;">
-    <img height="35" width="" style="margin: auto; display: block;" src="https://github.com/user-attachments/assets/24f9da00-470b-410e-a097-0eddcabc60bf">
-</div>
-<div align="center" style="width:100%; overflow-x: auto; margin: auto; display: block;"> 
-   <img style="width: 400px; height: auto;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&rank_icon=github&hide_rank=false&show=discussions_started&card_width=400px&title_color=E86C85&text_color=FFA39A&icon_color=FF9C8E&bg_color=fffbf7&ring_color=E86C85&border_radius=5.5&line_height=20&number_format=long" alt="GitHub Stats">
-   <img style="width: 290px; height: auto;" src="http://github-profile-summary-cards-umber.vercel.app/api/cards/repos-per-language?username=Mel-iza&theme=florescent_dahlia" alt="Top Languages">
- 
-  
-</div>-->
-
-
-<!-- TROFÉUS -->
-<!--<div align="center" display="block" style="width:100%; overflow-x: auto;">
-   <img height="200cm" width="300cm" style="max-width: 720px; width: 720px; height: 80px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&no-frame=true&theme=flat&title=Joined2020,Repositories,Experience,Star,Followers,Commit,PR,Issues&column=8&row=1&margin-w=10"> <br>-->
-
-<!-- TROFÉU POR RANK   <img height="200cm" width="300cm" style="max-width: 720px; width: 720px; height: 80px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&no-frame=true&theme=flat&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=8&row=1&margin-w=4"> <br> 
-</div>-->
-
-<!--
-<div align="center" style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: center; gap: 20px; margin: 0 auto; width: 100%;">
-  <div style="flex: 1; min-width: 300px; max-width: 400px; display: flex; justify-content: center;">
-    <img src="https://streak-stats.demolab.com?user=Mel-iza&theme=buefy&stroke=D88D8D&sideNums=E99898&dates=8D8FEB&ring=FFA8A9&sideLabels=BE4116&fire=7957d5&currStreakLabel=EB5454&currStreakNum=EB8D61&border_radius=10&date_format=j%20M%5B%20Y%5D" style="height: 180px; width: 100%; object-fit: contain">
-  </div>
-  
-  <div style="flex: 1; min-width: 150px; max-width: 100px; display: flex; justify-content: center;">
-    <img src="http://github-profile-summary-cards-umber.vercel.app/api/cards/productive-time?username=Mel-iza&theme=florescent_dahlia&utcOffset=8" style="height: 180px; width: 100%; object-fit: contain">
-  </div>
-</div>-->
-
 
 
 <!-- INTERESTED IN -->
@@ -623,13 +555,11 @@ Here are a few repositories that best showcase my skills and experience in data 
 
 
 
-In October 2023, I took a leap of faith and began my studies at <a href="https://www.holbertonschool.com/" target="_blank">Holberton School</a> to start a new career in technology. 
-
 
 
 #### Future Ambitions
 
- I am thrilled to share that I will be furthering my education at <a href="https://simplon.co/formation/ecole-ia-microsoft/23" target="_blank">Simplon's Microsoft AI School</a> starting in October 2024. This exciting opportunity will allow me to specialize in machine learning and AI development, opening new doors for innovation and professional growth.
+ I am thrilled to share that I will be furthering my education at <a href="https://simplon.co/formation/ecole-ia-microsoft/23" target="_blank">Simplon's Microsoft AI School</a> starting in October 2024. 
 
 
 ##  Tech Stack
