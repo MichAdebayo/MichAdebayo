@@ -117,8 +117,8 @@
                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
       </td>  
       <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-           <!-- AWS -->
-            <img src="https://github.com/user-attachments/assets/048c1983-461f-46ff-a1fc-c2b0850f23b0" 
+           <!-- SNOWFLAKE -->
+            <img src="https://github.com/user-attachments/assets/8979396d-53f5-4e02-99d7-5ae73a5bd8a4" 
                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
       </td>      
       <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
