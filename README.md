@@ -103,7 +103,7 @@
       </td>  
       <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
            <!-- GRAFANA -->
-            <img src="https://github.com/user-attachments/assets/2ae28e21-0fb2-4ed5-98b4-42ce5c43d445" 
+            <img src="https://github.com/user-attachments/assets/503de1f6-c2e8-43b0-b794-19b23fbbc686" 
                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
       </td>   
       <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
