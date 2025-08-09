@@ -9,11 +9,7 @@
   <img src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" width="30px" height="30px" align="middle"><img src="https://github.com/user-attachments/assets/0689f59f-78eb-415d-88e3-9d3888fda98c" width="89%" align="middle"><img src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" width="30px" height="30px" align="middle"><br>
 </div><br>
 
-<!-- <div style="height: 40px;"></div> -->
-
 <!-- FIRST TWO CARDS-->  
-<!-- <div align="center" style="width: 100%; overflow-x: auto; text-align: center;">
-</div> -->
 <div align="center" style="width:80%; overflow-x: auto; margin: 30px auto 0; display: block"> 
      <!-- MY VERCEL APP -->
     <img style="width: 450px; height: 80%;" src="https://github-readme-stats.vercel.app/api?username=MichAdebayo&show_icons=true&rank_icon=github&hide_rank=false&show=discussions_started&card_width=400px&theme=radical&border_radius=5.5&line_height=20&number_format=long" alt="GitHub Stats">
@@ -29,7 +25,7 @@
 <div align="justify">
 <img src="https://github.com/user-attachments/assets/2d9e35f5-c9b2-4f6e-873e-d30b7043c706" height="33px"><br>
 <div align="justify">
-   <span style="display: block; text-align: center; font-size: 12px;" 
+   <span style="display: block; text-align: center; font-size: 14px;" 
 
 <img height="12px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2"> Hello, I'm Michael (He/him) and I hold a  PhD. in Environmental Geosciences from Aix-Marseille. During my doctoral studies, I leveraged a state-of-the-art imaging machine to generate images, trained multiple convolutional neural networks (CNNs), and developed models for predicting temperatures in the Indian Ocean. My education also includes degrees in Botany and professional certifications in Data Science and AI Development. As a Data Scientist at Insitoo Freelances, I specialize in building machine learning models and integrating NLP systems into our platform. My primary focus is on developing recommendation systems that provide data-driven recommendations, increasing the probability of a successful match between clients and freelancers. With growing expertise in MLOps & DevOps, I enjoy leveraging automation, machine learning and AI in creating value in the workplace.
 
@@ -37,13 +33,13 @@
    <div align="justify "style="display: block;">
       <img src="https://github.com/user-attachments/assets/bff3a6a9-ebf6-4905-b085-9f37a0eadf2e" height="33px"> <br>
      <!-- COLLABORATION AND CURIOSITY -->
-   <div style="display: flex; align-items: flex-start; justify-content: center; font-size: 12px; margin: 8px 0; padding-left: 14px;">
+   <div style="display: flex; align-items: flex-start; justify-content: center; font-size: 14px; margin: 8px 0; padding-left: 14px;">
       <img src="https://github.com/user-attachments/assets/559a5b79-fc9b-4f15-b5b6-c1d3dcd6f158" height="18px" style="vertical-align: middle; margin-right: 5px;">
   <span">
     fuel my drive to exchange ideas, ask insightful questions, and explore creative solutions.  
   </span>  <br>
       <!-- CONTINUOUS LEARNING -->
-    <div style="display: flex; align-items: flex-start; justify-content: center; font-size: 12px; margin: 8px 0; padding-left: 16px;">
+    <div style="display: flex; align-items: flex-start; justify-content: center; font-size: 14px; margin: 8px 0; padding-left: 16px;">
       <img src="https://github.com/user-attachments/assets/8a1eec57-76f2-47c4-b93f-94d915e545a0" height="18px" style="vertical-align: middle; margin-right: 5px;">
   <span>
     keeps me evolving, as I expand my skills through projects, teamwork, and staying ahead of new trends. 
@@ -65,7 +61,7 @@
 
 <!-- TECH STACK -->
 <div align="left"><img height="33px" src="https://github.com/user-attachments/assets/78e84121-7bf4-4e77-8d22-8515ff393d4d"><br>
-  <p align="justify" style="font-size: 14px;"> Below are the technologies, tools, and frameworks I’ve used in my projects or regularly encountered in my work. I have also highlighted those I am currently learning and building deeper expertise in as part of my continuous growth.</p><br>
+  <p align="justify" style="font-size: 14px;"> Below are the technologies, tools, and frameworks I’ve used in my projects or regularly encountered in my work. I have also highlighted those I am currently learning and building deeper expertise in as part of my continuous growth.</p>
 </div>
 
 | **Category**                      | **Technologies** |
