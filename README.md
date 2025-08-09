@@ -144,9 +144,12 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
 
 <!-- PROJECTS AND TOPICS OF INTEREST -->
 <div align="left"><img height="33px" src="https://github.com/user-attachments/assets/896a2a5c-bd44-45e1-8952-453a1dbc2cac"><br>
-  <p align="justify" style="font-size: 14px;"> Pinned below are a few projects that give a snapshot of my recent works. However, in my repo, you will find projects and resources that showcase my journey in data science — from hands-on beginnings to tackling increasingly complex, real-world challenges. Feel free to explore them <a href="https://github.com/MichAdebayo?tab=repositories">
-  <span style="color: #B8175C;">here</span>
-</a>.</p><br>
+  <p align="justify" style="font-size: 14px;">
+    Below are a few featured projects that offer a glimpse into my recent work. My repository contains a diverse collection of projects and resources that reflect my growth in data science—from foundational explorations to solving complex, real-world problems.  
+    <br>
+    Curious to see more? Explore my  
+    [![Repositories](https://img.shields.io/badge/Repositories-%23B8175C?style=for-the-badge)](https://github.com/MichAdebayo?tab=repositories).
+  </p><br>
 </div>
 
 <!-- INTERESTED IN -->
