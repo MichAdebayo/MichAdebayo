@@ -157,7 +157,7 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
        <img align="center" height="18px" style="max-width:px ; width:; height:18px ;" src="https://github.com/user-attachments/assets/8bf1e1c6-0ef2-4075-8d68-4ba8617e3075" alt="Data Science">
        <img align="center" height="18px" style="max-width:px ; width:; height:18px ;" src="https://github.com/user-attachments/assets/a2416ade-3e46-44df-8029-fed97cfad314" alt="Deep Learning">
        <img align="center" height="18px" style="max-width:px ; width:; height:18px ;" src="https://github.com/user-attachments/assets/b77e47e6-3203-41b9-8878-4afbd78a7ad5" alt="Machine Learning">
-       <img align="center" height="21px" style="max-width:px ; width:; height:21px ;" src="https://github.com/user-attachments/assets/d815c322-6f60-4d7e-aec7-05423a09353a" alt="NLP">
+       <img align="center" height="18px" style="max-width:px ; width:; height:18px ;" src="https://github.com/user-attachments/assets/7fd41127-7854-4927-9697-1589475c74e3" alt="Artificial Intelligence">
        <img align="center" height="23px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/8bcf4290-cfda-457f-9d92-523c1a3660e1" alt="Ethics">
        <img align="center" height="23px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/a5d27216-89a3-4e71-8e1e-5fcf33a05bec" alt="Statistic">
        <img align="center" height="23px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/ec042be8-16db-4856-9feb-c043b2b85e57" alt="Responsible AI">
