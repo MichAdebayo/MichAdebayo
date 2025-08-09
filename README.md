@@ -82,7 +82,7 @@
 
 <!-- TECHNOLOGIES OF INTEREST -->
 <div style="display: block;">
-<img align="center" height="25px" style="height:25px; margin-bottom:8px;" src="https://github.com/user-attachments/assets/e78a0798-e41f-4779-b3f8-602a7a28b03b"><br>In addition to the tools and frameworks I use regularly, I maintain a focused list of technologies I’m eager to explore and master. These represent areas where I currently have limited hands-on experience but are high on my learning roadmap to expand my expertise.<br><br>
+<img align="center" height="25px" style="height:22px; margin-bottom:8px;" src="https://github.com/user-attachments/assets/e78a0798-e41f-4779-b3f8-602a7a28b03b"><br>In addition to the tools and frameworks I use regularly, I maintain a focused list of technologies I’m eager to explore and master. These represent areas where I currently have limited hands-on experience but are high on my learning roadmap to expand my expertise.<br><br>
     <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none !important; background-color: transparent !important;">
      <tbody> 
        <tr style="border: none !important; background-color: transparent !important;"> 
