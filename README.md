@@ -93,8 +93,10 @@
       </td>
       <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
            <!-- KUBERNETES -->
-           <img src="https://github.com/user-attachments/assets/4cca23fd-26af-432e-88f5-2ae7cffc314f" 
-                style="width: 100%; height: 100%; object-fit: contain; display: block;">
+          <img src="https://github.com/user-attachments/assets/4cca23fd-26af-432e-88f5-2ae7cffc314f" 
+              style="width: 48px; height: 48px; object-fit: contain; display: block;">
+           <!-- <img src="https://github.com/user-attachments/assets/4cca23fd-26af-432e-88f5-2ae7cffc314f" 
+                style="width: 100%; height: 100%; object-fit: contain; display: block;"> -->
       </td>
       <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
            <!-- BASH -->
