@@ -141,32 +141,6 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
 <!-- SEPARATOR-->
 <img src="https://github.com/user-attachments/assets/162e6b9c-571d-43a8-8281-582ee1d7dfaa">
 
- <div style="display: block;">
-<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none !important; background-color: transparent !important;">
-     <tbody> 
-       <tr style="border: none !important; background-color: transparent !important;"> 
-         <td width="100px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-        <!-- MARKDOWN -->
-        <img src="https://github.com/user-attachments/assets/94adc440-8a8b-40d1-888e-2f4e1c542c63" 
-             style="width: 100%; height: 100%; object-fit: contain; display: block;">
-      </td>
-      <td width="100px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-        <!-- PHOTOSHOP -->
-        <img src="https://github.com/user-attachments/assets/be5dd03e-ff15-459e-96d6-794c361c1ac3" 
-             style="width: 100%; height: 100%; object-fit: contain; display: block;">
-      </td>
-      <td width="100px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-        <!-- CANVA -->
-           <img src="https://github.com/user-attachments/assets/d2651315-d98a-45ec-b0f5-217c20a8cccb" 
-             style="width: 100%; height: 100%; object-fit: contain; display: block;">
-      </td>    
-       </tr>
-     </tbody>
-</table>
-
-</div></details>
-
-
 <!-- PROJECTS -->
 <div style="display: block;">
 <img align="center" height="25px" style="max-width:px ; width:; height:25px ;" src="https://github.com/user-attachments/assets/942a72c6-1720-48de-83e9-f4acc0c780cd"><br>
