@@ -49,7 +49,7 @@
     keeps me evolving, as I expand my skills through projects, teamwork, and staying ahead of new trends. 
   </span>  <br>
       <!-- RESEARCH AND REPRODUCIBILITY -->
-    <div style="display: flex; align-items: flex-start; justify-content: center; font-size: 12px; margin: 8px 0; padding-left: 16px;">
+    <div style="display: flex; align-items: flex-start; justify-content: center; font-size: 14px; margin: 8px 0; padding-left: 16px;">
       <img src="https://github.com/user-attachments/assets/636a631f-949a-4950-80a9-01444fb64888" height="18px" style="vertical-align: middle; margin-right: 5px;">
   <span>
     guide my work, ensuring every result is evidence-based, transparent, and easy for others to build upon.
@@ -65,9 +65,7 @@
 
 <!-- TECH STACK -->
 <div align="left"><img height="33px" src="https://github.com/user-attachments/assets/78e84121-7bf4-4e77-8d22-8515ff393d4d"><br>
-   <span>
-       <p align="justify" style="font-size: 14px;"> Below are the technologies, tools, and frameworks I’ve used in my projects or regularly encountered in my work. I have also highlighted those I am currently learning and building deeper expertise in as part of my continuous growth.</p><br>
-   </span>
+  <p align="justify" style="font-size: 14px;"> Below are the technologies, tools, and frameworks I’ve used in my projects or regularly encountered in my work. I have also highlighted those I am currently learning and building deeper expertise in as part of my continuous growth.</p><br>
 </div>
 
 | **Category**                      | **Technologies** |
