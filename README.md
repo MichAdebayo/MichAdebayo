@@ -136,7 +136,11 @@
     </table>
    </div>   
 
-From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>, <b>Prometheus</b>,<b>N8N</b>, <b>Snowflake</b>, <b>Kafka</b>, and <b>dbt</b>,<br>
+From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>, <b>Prometheus</b>, <b>N8N</b>, <b>Snowflake</b>, <b>Kafka</b>, and <b>dbt</b>,<br>
+
+<!-- SEPARATOR-->
+<img src="https://github.com/user-attachments/assets/162e6b9c-571d-43a8-8281-582ee1d7dfaa">
+
  <div style="display: block;">
 <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none !important; background-color: transparent !important;">
      <tbody> 
