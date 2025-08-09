@@ -122,8 +122,8 @@
                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
       </td>      
       <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-           <!-- KUBERNETES -->
-            <img src="https://github.com/user-attachments/assets/7d0fe47b-be8c-4970-a287-39c876b1024d" 
+           <!-- KAFKA -->
+            <img src="https://github.com/user-attachments/assets/12faa626-520c-4287-9f34-e3cc0ae10e8d" 
                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
       </td>  
       <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
