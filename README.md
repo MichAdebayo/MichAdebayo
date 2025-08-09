@@ -107,13 +107,13 @@
                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
       </td>   
       <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-           <!-- ARGO -->
-            <img src="https://github.com/user-attachments/assets/922e8e9b-9fbb-4480-9e7e-a49654514261" 
+           <!-- PROMETHEUS -->
+            <img src="https://github.com/user-attachments/assets/ec4f85b1-49ba-4ef5-9879-a9998019daad" 
                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
       </td>
       <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-           <!-- GOOGLE CLOUD -->
-            <img src="https://github.com/user-attachments/assets/95e2a8d1-330a-4e65-bf6c-5c593d706f297" 
+           <!-- N8N -->
+            <img src="https://github.com/user-attachments/assets/1ec22e93-5c19-4284-b2dc-38dacd87661f" 
                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
       </td>  
       <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
