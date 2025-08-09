@@ -64,7 +64,7 @@
 
 
 <!-- TECH STACK -->
-<div align="left"><img height="33px" src="https://github.com/user-attachments/assets/78e84121-7bf4-4e77-8d22-8515ff393d4d"><br>
+<div align="left" style="font-size: 12px;"><img height="33px" src="https://github.com/user-attachments/assets/78e84121-7bf4-4e77-8d22-8515ff393d4d"><br>
    <span>
        <p align="justify"> Below are the technologies, tools, and frameworks I’ve used in my projects or regularly encountered in my work. I have also highlighted those I am currently learning and building deeper expertise in as part of my continuous growth.</p><br>
    </span>
