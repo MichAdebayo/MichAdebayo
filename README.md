@@ -141,15 +141,13 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
 <!-- SEPARATOR-->
 <img src="https://github.com/user-attachments/assets/162e6b9c-571d-43a8-8281-582ee1d7dfaa">
 
-<!-- PROJECTS -->
-<div style="display: block;">
-<img align="center" height="25px" style="max-width:px ; width:; height:25px ;" src="https://github.com/user-attachments/assets/942a72c6-1720-48de-83e9-f4acc0c780cd"><br>
- Pinned below are a few projects that give a snapshot of my recent works. However, in my repo, you will find projects and resources that showcase my journey in data science — from hands-on beginnings to tackling increasingly complex, real-world challenges. Feel free to explore them. <br><br>
-</div>
-
 <!-- SEPARADOR -->
 <img src="https://github.com/user-attachments/assets/15c00b71-2105-44b8-bb91-f0d5431b9613"> 
 
+<!-- PROJECTS AND TOPICS OF INTEREST -->
+<div align="left"><img height="33px" src="https://github.com/user-attachments/assets/896a2a5c-bd44-45e1-8952-453a1dbc2cac"><br>
+  <p align="justify" style="font-size: 14px;"> Pinned below are a few projects that give a snapshot of my recent works. However, in my repo, you will find projects and resources that showcase my journey in data science — from hands-on beginnings to tackling increasingly complex, real-world challenges. Feel free to explore them.</p><br>
+</div>
 
 <!-- INTERESTED IN -->
 <div align="left "style="display: block;"><img src="https://github.com/user-attachments/assets/ab80b4b1-188c-40c7-a781-81801670fcab" height="33px"></div>
