@@ -144,7 +144,7 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
 
 <!-- PROJECTS AND TOPICS OF INTEREST -->
 <div align="left"><img height="33px" src="https://github.com/user-attachments/assets/896a2a5c-bd44-45e1-8952-453a1dbc2cac"><br>
-  <p align="justify" style="font-size: 14px;"> Pinned below are a few projects that give a snapshot of my recent works. However, in my repo, you will find projects and resources that showcase my journey in data science — from hands-on beginnings to tackling increasingly complex, real-world challenges. Feel free to explore them <a href="https://github.com/MichAdebayo?tab=repositories">here</a>.</p><br>
+  <p align="justify" style="font-size: 14px;"> Pinned below are a few projects that give a snapshot of my recent works. However, in my repository, you will find projects and resources that showcase my journey in data science — from hands-on beginnings to tackling increasingly complex, real-world challenges. Feel free to explore them <a href="https://github.com/MichAdebayo?tab=repositories">here</a>.</p><br>
 </div>
 
 <!-- INTERESTED IN -->
