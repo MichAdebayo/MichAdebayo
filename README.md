@@ -64,7 +64,7 @@
 
 
 <!-- PROJECTS, STUDIES AND GOAL -->
-<div align="left"><img height="33px" src="https://github.com/user-attachments/assets/9d079824-a056-4d44-a39c-af1ea6a44b94"><br>
+<div align="left"><img height="33px" src="https://github.com/user-attachments/assets/78e84121-7bf4-4e77-8d22-8515ff393d4d"><br>
    <span>
        <p align="justify">This is the study space I've built and continue to develop over time. Here you'll find repositories documenting my learning roadmaps and study plans, current focus areas and ongoing projects and future project ideas and experiments.</p>
    <img src="https://github.com/user-attachments/assets/7eb913c2-17d3-4c04-a5c0-d40a8323285c" height="40px"/><br>
