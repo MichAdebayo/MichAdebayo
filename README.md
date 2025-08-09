@@ -69,7 +69,6 @@
        <p align="justify"> Below are the technologies, tools, and frameworks I’ve used in my projects or regularly encountered in my work. I have also highlighted those I am currently learning and building deeper expertise in as part of my continuous growth.</p><br>
    </span>
 </div>
-<br>
 
 | **Category**                      | **Technologies** |
 |------------------------------------|-----------------|
