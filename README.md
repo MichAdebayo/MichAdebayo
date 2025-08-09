@@ -154,7 +154,7 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
 
 
 <div align="justify "style="display: block;">
-       <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://github.com/user-attachments/assets/8bf1e1c6-0ef2-4075-8d68-4ba8617e3075" alt="Data Science">
+       <img align="center" height="18px" style="max-width:px ; width:; height:20px ;" src="https://github.com/user-attachments/assets/8bf1e1c6-0ef2-4075-8d68-4ba8617e3075" alt="Data Science">
        <img align="center" height="23px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/5aaeb37d-c4b0-4dc5-a78f-a8b468199174" alt="Machine Learning">
        <img align="center" height="23px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/ae0e317b-3dbc-48da-8275-351927f826b4" alt="Deep Learning">
        <img align="center" height="21px" style="max-width:px ; width:; height:21px ;" src="https://github.com/user-attachments/assets/d815c322-6f60-4d7e-aec7-05423a09353a" alt="NLP">
