@@ -87,8 +87,8 @@
      <tbody> 
        <tr style="border: none !important; background-color: transparent !important;"> 
          <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-           <!-- TENSORFLOW -->
-           <img src="https://github.com/user-attachments/assets/a8dc35fa-608e-431c-a195-8f57ec2e40ba" 
+           <!-- AWS -->
+           <img src="https://github.com/user-attachments/assets/0ca937d7-7fee-4a7d-af0f-8f2ce7730b38" 
                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
       </td>
       <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
