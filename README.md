@@ -149,7 +149,7 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
 
 <!-- INTERESTED IN -->
 <div align="left "style="display: block;"><img src="https://github.com/user-attachments/assets/ab80b4b1-188c-40c7-a781-81801670fcab" height="33px"></div>
-<div align="justify "style="display: block;">Research Focus & Professional Interests: I’m passionately engaged at the intersection of Data Science, Machine Learning, and Responsible AI, with specialized attention to LLM Security & Explainability, designing security-first training pipelines with embedded guardrail validation and epistemological validation of model outputs (bridging my philosophy background).<br>
+<div align="justify "style="display: block;">My professional interest lies in the intersection of Data Science, Machine Learning, and Artificial Intelligence, with special focus on Model Development, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) systems, and AI Agent orchestration. I also explore statistical methods and implement workflow automation processes that simplify repetitive processes. Overall, as an innate researcher, I research the latest trends to keep up to date with the latest tools and technologies that could simplify my work.<br>
 </div><br>
 
 
@@ -180,7 +180,7 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
 
 <div align="center" style="width: 100%; overflow-x: auto; text-align: center;">
   <div style="display: inline-flex; gap: 10px; align-items: center;">
-     <a href="https://www.kaggle.com/melizaaugusto" style="text-decoration: none;">
+     <a href="https://www.kaggle.com/michaeladebayo99" style="text-decoration: none;">
      <img src="https://github.com/user-attachments/assets/dbbbc92c-6eb8-4343-9d97-5cc81439e5de" style="height: 160px"></a>  
      <img src="https://streak-stats.demolab.com?user=Mel-iza&theme=buefy&stroke=D88D8D&sideNums=E99898&dates=8D8FEB&ring=FFA8A9&sideLabels=BE4116&fire=7957d5&currStreakLabel=EB5454&currStreakNum=EB8D61&border_radius=10&date_format=j%20M%5B%20Y%5D" style="height: 160px">
    <!--<img src="http://github-profile-summary-cards-umber.vercel.app/api/cards/productive-time?username=Mel-iza&theme=florescent_dahlia&utcOffset=8" style="height: 180px">-->
