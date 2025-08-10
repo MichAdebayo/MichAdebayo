@@ -144,12 +144,12 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
 
 <!-- PROJECTS AND TOPICS OF INTEREST -->
 <div align="left"><img height="33px" src="https://github.com/user-attachments/assets/896a2a5c-bd44-45e1-8952-453a1dbc2cac"><br>
-  <p align="justify" style="font-size: 14px;"> Pinned below my profile are a few projects that give a snapshot of my recent works. However, in my repository, you will find projects and resources that showcase my journey in data science — from hands-on beginnings to tackling increasingly complex, real-world challenges. Feel free to explore them <a href="https://github.com/MichAdebayo?tab=repositories">here</a>.</p><br>
+  <p align="justify" style="font-size: 14px;"> Pinned below my profile are a few projects that give a snapshot of my recent works. However, in my repository, you will find projects and resources that showcase my journey in data science — from hands-on beginnings to tackling increasingly complex, real-world challenges. Feel free to explore them <a href="https://github.com/MichAdebayo?tab=repositories">here</a>.</p>
 </div>
 
 <!-- INTERESTED IN -->
   <!-- <div style="display: flex; align-items: flex-start; justify-content: center; font-size: 12px; margin: 6px 0; padding-left: 16px;"> -->
-<div align="left "style="display: block;"><img src="https://github.com/user-attachments/assets/056c7200-7ffb-41a1-b318-25447b43ec33" height="16px"></div>
+<div align="left "style="display: block;"><img src="https://github.com/user-attachments/assets/056c7200-7ffb-41a1-b318-25447b43ec33" height="23px"></div>
 <div align="justify "style="display: block;">My professional interest lies in the intersection of Data Science, Machine Learning, and Artificial Intelligence, with special focus on Model Development, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) systems, and AI Agent orchestration. I also explore statistical methods and design workflow automation processes that simplify repetitive tasks. As a naturally inquisitive researcher, I stay current with emerging trends, tools, and technologies to continuously enhance my expertise.<br>
 </div><br>
 
