@@ -165,7 +165,7 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
        <img align="center" height="18px" style="max-width:px ; width:; height:18px ;" src="https://github.com/user-attachments/assets/6d395979-8b9a-43ea-a589-8b4c69fe21ce" alt="Worklflow Automation">
        <img align="center" height="18px" style="max-width:px ; width:; height:18px ;" src="https://github.com/user-attachments/assets/a106b0d8-22d0-4f0d-b790-a48a68362593" alt="AI Agents">
        <img align="center" height="18px" style="max-width:px ; width:; height:18px ;" src="https://github.com/user-attachments/assets/8500327f-7c33-430b-949b-5fc1417d881e" alt="RAG">
-       <img align="center" height="23px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/75fff8df-bb69-452a-a20f-5165e6f1321f" alt="LLMs">
+       <img align="center" height="18px" style="max-width:px ; width:; height:18px ;" src="https://github.com/user-attachments/assets/e6f6901d-9878-4639-84dc-c3ed09061382"" alt="Software Engineering">
        </div>
        
 <br>
@@ -285,14 +285,6 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
 
 </div>
 
-
-
-<!--
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/09c82474-9912-44f1-9979-03963a28bb5b" 
-       width="950" 
-       style="height: auto; display: inline-block;">
-</div> -->
 <br>
    <!-- YEAR -->  
    <div align="center">
@@ -304,27 +296,8 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
 </html>
 
 
-<!--
-INFORMAÇÕES IMPORTANTES:
------------------------
-Fonte nova utilizada: confortaa
-Fonte utilizada: Arial rounded
-Referências para ícones: https://icons8.com/icons, https://devicon.dev
-https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file#apply-theme
-https://github.com/anuraghazra/github-readme-stats/blob/master/themes/index.js
-https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-https://htmlcolorcodes.com
-https://github-profile-summary-cards.vercel.app/demo.html
-https://streak-stats.demolab.com/demo/?user=Mel-iza&theme=ocean-dark&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=border&background=%23F5E1C0
-https://redketchup.io/color-picker
--->  
-
-
 
 <!-- ## Hi there, I'm Michael Adebayo 👋 👋
-
-
-I'm a passionate Data Scientist & AI Engineer with a knack for transforming complex datasets into actionable insights. Welcome to my GitHub profile where I experiment with data, build machine learning models, and explore the limitless possibilities of artificial intelligence.
 
 ## ⚡️ About Me
 - 🔭 Currently working on innovative machine learning and deep learning projects.
@@ -333,50 +306,3 @@ I'm a passionate Data Scientist & AI Engineer with a knack for transforming comp
 - 📫 How to reach me: [michael@example.com](mailto:michael@example.com)
 
 ## 🚀 Featured Data Science Projects
-
-Here are a few repositories that best showcase my skills and experience in data science and AI:
-
-- **Project Alpha**  
-  A comprehensive predictive analytics tool that leverages machine learning models to forecast trends and outcomes.  
-  *Key Features:* Data preprocessing, model training, cross-validation, and performance evaluation.  
-  [Explore the project](https://github.com/MichAdebayo/ProjectAlpha)
-
-- **DeepInsights**  
-  A deep learning project implementing convolutional neural networks (CNNs) for advanced image recognition tasks.  
-  *Key Features:* Transfer learning, model optimization, and visualization of neural network activations.  
-  [Explore the project](https://github.com/MichAdebayo/DeepInsights)
-
-- **DataVizPro**  
-  An interactive data visualization toolkit that simplifies the process of creating and sharing dynamic dashboards.  
-  *Key Features:* Real-time data processing, customizable chart components, and integration with popular data sources.  
-  [Explore the project](https://github.com/MichAdebayo/DataVizPro)
-
-
-
-## 🛠️ Technologies & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-FFCA28?style=for-the-badge&logo=jupyter&logoColor=black)
-
-## 📈 GitHub Contribution Graph
-
-![Profile Views](https://komarev.com/ghpvc/?username=MichAdebayo&style=flat-square)
- -->
-
-
-
-
-
-
-
-#### Future Ambitions
-
- I am thrilled to share that I will be furthering my education at <a href="https://simplon.co/formation/ecole-ia-microsoft/23" target="_blank">Simplon's Microsoft AI School</a> starting in October 2024. 
-
-
-##  Tech Stack
-
