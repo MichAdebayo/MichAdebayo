@@ -149,7 +149,7 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
 
 <!-- INTERESTED IN -->
 <div align="left "style="display: block;"><img src="https://github.com/user-attachments/assets/ab80b4b1-188c-40c7-a781-81801670fcab" height="33px"></div>
-<div align="justify "style="display: block;">My professional interest lies in the intersection of Data Science, Machine Learning, and Artificial Intelligence, with special focus on Model Development, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) systems, and AI Agent orchestration. I also explore statistical methods and implement workflow automation processes that simplify repetitive processes. Overall, as an innate researcher, I research the latest trends to keep up to date with the latest tools and technologies that could simplify my work.<br>
+<div align="justify "style="display: block;">My professional interest lies in the intersection of Data Science, Machine Learning, and Artificial Intelligence, with special focus on Model Development, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) systems, and AI Agent orchestration. I also explore statistical methods and design workflow automation processes that simplify repetitive tasks. As a naturally inquisitive researcher, I stay current with emerging trends, tools, and technologies to continuously enhance my expertise.<br>
 </div><br>
 
 
