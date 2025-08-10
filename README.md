@@ -161,7 +161,7 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
        <img align="center" height="18px" style="max-width:px ; width:; height:18px ;" src="https://github.com/user-attachments/assets/3e9f6c50-1a17-44f6-90e8-d2fd1fe5d582" alt="Computer Vision">
        <img align="center" height="18px" style="max-width:px ; width:; height:18px ;" src="https://github.com/user-attachments/assets/164cc356-6ef0-422f-90a3-c666c9a37d29" alt="StatisticS">
        <img align="center" height="18px" style="max-width:px ; width:; height:18px ;" src="https://github.com/user-attachments/assets/82340bb5-466e-4fbf-afd1-fafaa6c810a5" alt="NLP">
-       <img align="center" height="18px" style="max-width:px ; width:; height:18px ;" src="hhttps://github.com/user-attachments/assets/14e29c10-012b-4c4f-a4b4-e2e1eb397801" alt="LLMs">
+       <img align="center" height="18px" style="max-width:px ; width:; height:18px ;" src="https://github.com/user-attachments/assets/14e29c10-012b-4c4f-a4b4-e2e1eb397801" alt="LLMs">
        <img align="center" height="23px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/3c0249a4-b827-4ac4-9d9f-a80c16f1c35f" alt="Epistemology">
        <img align="center" height="23px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/4cd52aca-3beb-4833-b6d7-095eddb0a192" alt="Philosophy">
        <img align="center" height="23px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/e0381a97-70f5-42bf-af18-fd9d36480edf" alt="LLMs">
