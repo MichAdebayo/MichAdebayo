@@ -232,16 +232,16 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
           <!-- Icons -->
              <!-- LINKEDIN -->
            <a href="https://www.linkedin.com/in/adebayomichael/" style="text-decoration: none;">
-               <img src="https://github.com/user-attachments/assets/fa26e354-e273-462b-a43e-93d593643b29" height="30px" alt="Linkedin"></a>  
+               <img src="https://github.com/user-attachments/assets/fa26e354-e273-462b-a43e-93d593643b29" height="20px" alt="Linkedin"></a>  
          <!-- EMAIL --> 
             <a href="mailto:adebayomichael4@gmail.com" style="text-decoration: none;">
-                <img src="https://github.com/user-attachments/assets/7659cdee-e68d-4d0e-b083-27f4b8f5d1a2" height="30px"></a>
+                <img src="https://github.com/user-attachments/assets/7659cdee-e68d-4d0e-b083-27f4b8f5d1a2" height="20px"></a>
          <!-- OUTLOOK -->
          <a href="mailto:michael.adebayo@etu.univ-amu.fr" style="text-decoration: none;">
              <img src="https://github.com/user-attachments/assets/1738343b-a9fd-4958-84ed-f28ea965da32" height="30px"></a>
          <!-- DISCORD -->
          <a href="https://discord.com/users/1292782019205402645" onclick="alert('mikolinton'); return false;" style="text-decoration: none;"> 
-             <img src="https://github.com/user-attachments/assets/16143f2a-509e-4cfb-ba97-4e426b484247" height="30px"></a>
+             <img src="https://github.com/user-attachments/assets/16143f2a-509e-4cfb-ba97-4e426b484247" height="20px"></a>
          <!-- HUGGINGFACE -->
          <a href="https://huggingface.co/Mikolinton" style="text-decoration: none;"> 
              <img src="https://github.com/user-attachments/assets/c1aae297-843d-4ad4-9555-822a541ddbc5" height="30px"></a>
