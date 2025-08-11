@@ -209,10 +209,10 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
       <td style="padding: 20px; text-align: justify; vertical-align: top; width: 50%;">
         <img src="https://github.com/user-attachments/assets/044e576a-3779-4c19-be36-2a8290a1512a" height="18px" style="vertical-align: middle; margin-right: 5px;">
   <span><br>
-     &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /><b> Anime lover </b>: My favorites are Naruto & Boruto<br>
-     &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> <b> Experienced gamer</b>: COD, EFootball, Ghostland, FIFA<br>
-     &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> <b> Book genres</b>: Tech, Relationship, Philosophy, Biography <br>
-     &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> <b> Sports</b>: Football (played Coup de France in 2021/2022 season), Tennis, Bowling, Athletics <br>
+     &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/e96bad79-b21f-41cc-b4b2-7f06da9a32ed" /><b> Anime lover </b>: My favorites are Naruto & Boruto<br>
+     &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/e96bad79-b21f-41cc-b4b2-7f06da9a32ed" /> <b> Experienced gamer</b>: COD, EFootball, Ghostland, FIFA<br>
+     &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/e96bad79-b21f-41cc-b4b2-7f06da9a32ed" /> <b> Book genres</b>: Tech, Relationship, Philosophy, Biography <br>
+     &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/e96bad79-b21f-41cc-b4b2-7f06da9a32ed" /> <b> Sports</b>: Football (played Coup de France in 2021/2022 season), Tennis, Bowling, Athletics <br>
   </span>
       </td>
     </tr>
