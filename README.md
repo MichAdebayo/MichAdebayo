@@ -231,8 +231,8 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
         <div style="display: flex; justify-content: center; align-items: center; gap: 10px; margin-top: 15px;">
           <!-- Icons -->
              <!-- LINKEDIN -->
-           <a href="https://www.linkedin.com/in/mel-augusto/" style="text-decoration: none;">
-               <img src="https://github.com/user-attachments/assets/ad7b2ccf-017c-493d-b1e3-8a34fe9d2ee8" height="35px" alt="Linkedin"></a>  
+           <a href="https://www.linkedin.com/in/adebayomichael/" style="text-decoration: none;">
+               <img src="https://github.com/user-attachments/assets/fa26e354-e273-462b-a43e-93d593643b29" height="35px" alt="Linkedin"></a>  
          <!-- EMAIL --> 
             <a href="mailto:meliza.caug@gmail.com" style="text-decoration: none;">
                 <img src="https://github.com/user-attachments/assets/4454590c-64fe-4bb4-94fe-355dc170e850" height="35px"></a>
