@@ -179,9 +179,9 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
 </div>
 
 <!-- KAGGLE CARD -->
-<div align="center" style="overflow-x: auto;">
+<div align="center">
     <a href="https://www.kaggle.com/michaeladebayo99" style="text-decoration: none;">
-    <img src="https://github.com/user-attachments/assets/a47b2344-a381-4bbe-a50d-9073196fae2f" style="height: 160px width"></a>  
+    <img src="https://github.com/user-attachments/assets/05245aa4-a62b-4991-91e6-1435f1c37477" style="height: 160px; width: 80%;"></a>  
 </div>
 
 
