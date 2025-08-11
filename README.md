@@ -198,19 +198,11 @@ EXTRACURRICULAR ACTIVITIES
       <td style="padding: 20px; text-align: justify; vertical-align: middle; width: 50%;">
         <img src="https://github.com/user-attachments/assets/3458ce63-6d7d-493e-9745-a1020c07e125" height="60px" style="vertical-align: middle; margin: 4px;"><br>
   <span>
-  Supporting and encouraging women in technology. <br>I have the honor of participating in two amazing communities in the field. Check their work for incredible initiatives supporting women in tech!<br>
-  <div style="margin-left: 10px;">
-      </td>
-      <td style="padding: 20px; text-align: justify; vertical-align: top; width: 50%;">
-        <img src="https://github.com/user-attachments/assets/cc3746ad-ee1f-48cb-a9d4-30f93bd76b14" height="60px" style="vertical-align: middle; margin-right: 4px;">
-      </td>
-    </tr>
-  </table>
-  </div>
+
 
 <!-- EXTRACURRICULAR ACTIVITIES -->
 <div align="left">
-  <img height="38px" style="vertical-align: middle; margin-left: 4px;" src="https://github.com/user-attachments/assets/2e4b53a5-044f-4b8c-8cf3-afe5bffdf61c"><br>
+  <img height="38px" style="vertical-align: middle; margin-left: 30px;" src="https://github.com/user-attachments/assets/2e4b53a5-044f-4b8c-8cf3-afe5bffdf61c"><br>
   <div align="center">
 
   <table>
@@ -218,8 +210,7 @@ EXTRACURRICULAR ACTIVITIES
       <td align="justify" width="50%">
         <img height="40px" src="https://github.com/user-attachments/assets/3458ce63-6d7d-493e-9745-a1020c07e125"><br>
         <b>Supporting and encouraging women in technology.</b><br>
-        I have the honor of participating in two amazing communities in the field.<br>
-        Check their work for incredible initiatives supporting women in tech!
+        I have the honor of participating in two amazing communities in the field. Check their work for incredible initiatives supporting women in tech!
       </td>
       <td align="justify" width="50%">
         <img src="https://github.com/user-attachments/assets/cc3746ad-ee1f-48cb-a9d4-30f93bd76b14" height="40px"><br>
