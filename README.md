@@ -232,7 +232,7 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
           <!-- Icons -->
              <!-- LINKEDIN -->
            <a href="https://www.linkedin.com/in/adebayomichael/" style="text-decoration: none;">
-               <img src="https://github.com/user-attachments/assets/fa26e354-e273-462b-a43e-93d593643b29" height="35px" alt="Linkedin"></a>  
+               <img src="https://github.com/user-attachments/assets/fa26e354-e273-462b-a43e-93d593643b29" height="32px" alt="Linkedin"></a>  
          <!-- EMAIL --> 
             <a href="mailto:meliza.caug@gmail.com" style="text-decoration: none;">
                 <img src="https://github.com/user-attachments/assets/4454590c-64fe-4bb4-94fe-355dc170e850" height="35px"></a>
