@@ -216,15 +216,13 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
 
 
 <!-- LETS CONNECT -->
-<div align="center">
-   <img align=center height="33px" style="display: flex; align-items: center"; src="https://github.com/user-attachments/assets/e5ac8b61-cafe-4d22-87ef-36a0f134a1dd">
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+   <img height="33px" src="https://github.com/user-attachments/assets/e5ac8b61-cafe-4d22-87ef-36a0f134a1dd">
        <p style="text-align: justify; width: 70% !important; margin: 0 auto !important;">  
         Feel free to contact me! I'm opened for collaborations on AI/NLP projects, <br>
         discussions about women in tech initiatives, sharing game recommendations 
         (RPGs preferred!) <br>and opportunities in the area!<br>      
           <div style="display: inline-block; align-items: center;">
-          <!-- how to reach me -->
-            <!--<img height="22px" align-items: center src="https://github.com/user-attachments/assets/49b2fc92-a1d9-4409-8ea9-d86ed6ff57f3" style="display: flex"><br>-->
           <!-- Icons -->
              <!-- LINKEDIN -->
            <a href="https://www.linkedin.com/in/mel-augusto/" style="text-decoration: none;">
