@@ -197,11 +197,11 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
   <table style="table-layout: fixed; width: 100%; border-collapse: collapse;">
     <tr>
       <td align="justify" width="50%" style="padding: 20px; vertical-align: middle;">
-        <img src="https://github.com/user-attachments/assets/29c95023-fa3a-4996-b236-22b4e9740b15" style="height:28px; width=400px !important;"><br>
-        I have had the privilege of helping over 50 prospective students secure scholarships through targeted essay reviews, interactive webinars, and personalized training. Also, one of my recent interests is supporting local animal care centers.
+        <img src="https://github.com/user-attachments/assets/29c95023-fa3a-4996-b236-22b4e9740b15" style="height:24px; width=400px !important;"><br>
+        I have had the privilege of helping over 50 prospective graduate students secure scholarships through targeted essay reviews, interactive webinars, and personalized training. Also, one of my recent interests is supporting local animal care centers.
       </td>
       <td align="justify" width="50%" style="padding: 20px; vertical-align: middle;">
-        <img src="https://github.com/user-attachments/assets/284d14ba-1a1e-4745-9e5e-ea2c1e800c9a" style="height:28px; width:400px !important;"><br>
+        <img src="https://github.com/user-attachments/assets/284d14ba-1a1e-4745-9e5e-ea2c1e800c9a" style="height:24px; width:400px !important;"><br>
         <img height="16px" src="https://github.com/user-attachments/assets/e96bad79-b21f-41cc-b4b2-7f06da9a32ed" /> <b>Anime lover</b>: My favorites are Naruto & Boruto<br>
         <img height="16px" src="https://github.com/user-attachments/assets/e96bad79-b21f-41cc-b4b2-7f06da9a32ed" /> <b>Experienced gamer</b>: COD, EFootball, Ghostland, FIFA<br>
         <img height="16px" src="https://github.com/user-attachments/assets/e96bad79-b21f-41cc-b4b2-7f06da9a32ed" /> <b>Book genres</b>: Tech, Relationship, Philosophy, Biography<br>
