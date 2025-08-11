@@ -184,30 +184,11 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
     <img src="https://github.com/user-attachments/assets/05245aa4-a62b-4991-91e6-1435f1c37477" style="height: 400px; width: 90%;"></a>  
 </div>
 
-
-<!--
-<div align="center">
-  <table>
-    <tr>
-      <td style="padding: 10px; text-align: center">
-        <img src="https://streak-stats.demolab.com?user=Mel-iza&theme=buefy&stroke=D88D8D&sideNums=E99898&dates=8D8FEB&ring=FFA8A9&sideLabels=BE4116&fire=7957d5&currStreakLabel=EB5454&currStreakNum=EB8D61&border_radius=10&date_format=j%20M%5B%20Y%5D" style="height: 180px">
-      </td>
-      <td style="padding: 10px; text-align: center">
-        <img src="http://github-profile-summary-cards-umber.vercel.app/api/cards/productive-time?username=Mel-iza&theme=florescent_dahlia&utcOffset=8" style="height: 180px">
-      </td>
-    </tr>
-  </table>
-</div>-->
-
-
-<!-- SEPARADOR 
-<img src="https://github.com/user-attachments/assets/15c00b71-2105-44b8-bb91-f0d5431b9613"> -->
-
- <!-- SEPARATOR --> <img src="https://github.com/user-attachments/assets/15c00b71-2105-44b8-bb91-f0d5431b9613"> 
+ <!-- SEPARATOR --> 
+<img src="https://github.com/user-attachments/assets/162e6b9c-571d-43a8-8281-582ee1d7dfaa">
 
 <!--BEYOND WORK-->
 <div align="left "style="display: block;">
-      <!--<img src="https://github.com/user-attachments/assets/6d8c27d0-4b7d-4194-a6ba-e24de3120628" height="19cm"> -->
       <img src="https://github.com/user-attachments/assets/8deb1302-6d7d-427d-8773-83aee38e75cc" height="33px"> <br>
       <!-- FIRM BELIEVER IN -->
          <div style="text-align: center; font-size: 10px; margin: 10px 0; padding-left: 20px;">
