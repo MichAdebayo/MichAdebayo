@@ -191,9 +191,8 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
 <!-- EXTRACURRICULAR ACTIVITIES -->
 <div align="left" style="display: block;">
   <img height="33px" style="vertical-align: middle; margin-right: 30px;" src="https://github.com/user-attachments/assets/2e4b53a5-044f-4b8c-8cf3-afe5bffdf61c"><br>
-    <div style="text-align: center; font-size: 10px; margin: 10px 0; padding-left: 20px;">
-  <div align="center">
 
+  <div align="center">
   <table style="table-layout: fixed; width: 100%; border-collapse: collapse;">
     <tr>
       <td align="justify" width="50%" style="padding: 20px; text-align: justify; vertical-align: middle; width: 50%;">
