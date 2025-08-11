@@ -199,12 +199,8 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
       <td style="padding: 20px; text-align: justify; vertical-align: top; width: 50%;">
         <img src="https://github.com/user-attachments/assets/3458ce63-6d7d-493e-9745-a1020c07e125" height="30px" style="vertical-align: middle; margin: 4px;"><br>
   <span>
-  Supporting and encouraging women in technology. <br>I have the honor of participating in two amazing communities in the field.<br>Check their work for incredible initiatives supporting women in tech!<br>
+  Supporting and encouraging women in technology. <br>I have the honor of participating in two amazing communities in the field. Check their work for incredible initiatives supporting women in tech!<br>
   <div style="margin-left: 10px;">
-    &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> 
-    <b>MIA - Mulheres em IA</b>: <a href="https://www.instagram.com/mulheres.em.ia/">@mulheres.em.ia</a><br>
-    &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> 
-    <b>BPLN - Brasileiras em PLN</b>: <a href="https://brasileiraspln.com">brasileiraspln.com</a>
       </td>
       <td style="padding: 20px; text-align: justify; vertical-align: top; width: 50%;">
         <img src="https://github.com/user-attachments/assets/cc3746ad-ee1f-48cb-a9d4-30f93bd76b14" height="30px" style="vertical-align: top; margin-right: 4px;">
