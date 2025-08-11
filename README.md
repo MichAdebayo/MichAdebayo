@@ -256,21 +256,9 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
 <br>
    <!-- YEAR -->  
    <div align="center">
-      <img align=center src="https://github.com/user-attachments/assets/39674fa5-08ee-4149-a28f-858d4d35c785" height="35">
+      <img align=center src="https://github.com/user-attachments/assets/39674fa5-08ee-4149-a28f-858d4d35c785" height="25px">
    </div>
 </div>
 
 </div>
 </html>
-
-
-
-<!-- ## Hi there, I'm Michael Adebayo 👋 👋
-
-## ⚡️ About Me
-- 🔭 Currently working on innovative machine learning and deep learning projects.
-- 🌱 Always learning—constantly diving into new data science techniques and AI frameworks.
-- 💬 Ask me about data wrangling, predictive modeling, deep neural networks, or exploratory data analysis.
-- 📫 How to reach me: [michael@example.com](mailto:michael@example.com)
-
-## 🚀 Featured Data Science Projects
