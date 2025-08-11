@@ -193,15 +193,15 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
   <img height="33px" style="vertical-align: middle; margin-right: 30px;" src="https://github.com/user-attachments/assets/2e4b53a5-044f-4b8c-8cf3-afe5bffdf61c"><br>
 
   <div align="center">
-  <table style="table-layout: fixed; width: 100%;">
+  <table style="table-layout: fixed; width: 100%; border-collapse: collapse;">
     <tr>
       <td align="justify" width="50%" style="padding: 20px; vertical-align: middle;">
-        <img height="35px" src="https://github.com/user-attachments/assets/3458ce63-6d7d-493e-9745-a1020c07e125"><br>
+        <img src="https://github.com/user-attachments/assets/3458ce63-6d7d-493e-9745-a1020c07e125" style="height:35px; width:auto !important; display:inline-block;"><br>
         <b>Supporting and encouraging women in technology.</b><br>
         I have the honor of participating in two amazing communities in the field. Check their work for incredible initiatives supporting women in tech!
       </td>
       <td align="justify" width="50%" style="padding: 20px; vertical-align: middle;">
-        <img height="35px" src="https://github.com/user-attachments/assets/cc3746ad-ee1f-48cb-a9d4-30f93bd76b14" ><br>
+        <img src="https://github.com/user-attachments/assets/cc3746ad-ee1f-48cb-a9d4-30f93bd76b14" style="height:35px; width:auto !important; display:inline-block;"><br>
         <img height="16px" src="https://github.com/user-attachments/assets/e96bad79-b21f-41cc-b4b2-7f06da9a32ed" /> <b>Anime lover</b>: My favorites are Naruto & Boruto<br>
         <img height="16px" src="https://github.com/user-attachments/assets/e96bad79-b21f-41cc-b4b2-7f06da9a32ed" /> <b>Experienced gamer</b>: COD, EFootball, Ghostland, FIFA<br>
         <img height="16px" src="https://github.com/user-attachments/assets/e96bad79-b21f-41cc-b4b2-7f06da9a32ed" /> <b>Book genres</b>: Tech, Relationship, Philosophy, Biography<br>
