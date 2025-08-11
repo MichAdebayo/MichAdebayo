@@ -196,13 +196,11 @@ EXTRACURRICULAR ACTIVITIES
    <table style="table-layout: fixed; width: 100%; border-collapse: collapse;">
     <tr>
       <td style="padding: 20px; text-align: justify; vertical-align: middle; width: 50%;">
-        <img src="https://github.com/user-attachments/assets/3458ce63-6d7d-493e-9745-a1020c07e125" height="60px" style="vertical-align: middle; margin: 4px;"><br>
-  <span>
 
 
 <!-- EXTRACURRICULAR ACTIVITIES -->
 <div align="left">
-  <img height="38px" style="vertical-align: middle; margin-left: 30px;" src="https://github.com/user-attachments/assets/2e4b53a5-044f-4b8c-8cf3-afe5bffdf61c"><br>
+  <img height="38px" style="vertical-align: middle; margin-right: 30px;" src="https://github.com/user-attachments/assets/2e4b53a5-044f-4b8c-8cf3-afe5bffdf61c"><br>
   <div align="center">
 
   <table>
