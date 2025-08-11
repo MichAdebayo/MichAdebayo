@@ -197,7 +197,7 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
    <table style="table-layout: fixed; width: 100%; border-collapse: collapse;">
     <tr>
       <td style="padding: 20px; text-align: justify; vertical-align: top; width: 50%;">
-        <img src="https://github.com/user-attachments/assets/76b5b3a2-3a6e-410a-b59e-488d35310d3e" height="18px" style="vertical-align: middle; margin-right: 5px;"><br>
+        <img src="https://github.com/user-attachments/assets/3458ce63-6d7d-493e-9745-a1020c07e125" height="18px" style="vertical-align: middle; margin-right: 5px;"><br>
   <span>
   Supporting and encouraging women in technology. <br>I have the honor of participating in two amazing communities in the field.<br>Check their work for incredible initiatives supporting women in tech!<br>
   <div style="margin-left: 10px;">
@@ -207,7 +207,7 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
     <b>BPLN - Brasileiras em PLN</b>: <a href="https://brasileiraspln.com">brasileiraspln.com</a>
       </td>
       <td style="padding: 20px; text-align: justify; vertical-align: top; width: 50%;">
-        <img src="https://github.com/user-attachments/assets/044e576a-3779-4c19-be36-2a8290a1512a" height="18px" style="vertical-align: middle; margin-right: 5px;">
+        <img src="https://github.com/user-attachments/assets/cc3746ad-ee1f-48cb-a9d4-30f93bd76b14" height="18px" style="vertical-align: middle; margin-right: 5px;">
   <span><br>
      &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/e96bad79-b21f-41cc-b4b2-7f06da9a32ed" /><b> Anime lover </b>: My favorites are Naruto & Boruto<br>
      &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/e96bad79-b21f-41cc-b4b2-7f06da9a32ed" /> <b> Experienced gamer</b>: COD, EFootball, Ghostland, FIFA<br>
