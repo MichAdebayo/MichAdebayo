@@ -211,8 +211,8 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
   <span><br>
      &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /><b> Anime lover </b>: My favorites are Naruto & Boruto<br>
      &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> <b> Experienced gamer</b>: COD, EFootball, Ghostland, FIFA<br>
+     &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> <b> Book genres</b>: Tech, Relationship, Philosophy, Biography <br>
      &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> <b> Sports</b>: Football (played Coup de France in 2021/2022 season), Tennis, Bowling, Athletics <br>
-     &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> <b> Book genres</b>: Tech, Family, Relationship, Philosophy, Biography <br>
   </span>
       </td>
     </tr>
