@@ -183,8 +183,7 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
 <div align="center" style="width: 100%; overflow-x: auto; text-align: center;">
   <div style="display: inline-flex; gap: 10px; align-items: center;">
      <a href="https://www.kaggle.com/michaeladebayo99" style="text-decoration: none;">
-     <img src="https://github.com/user-attachments/assets/a47b2344-a381-4bbe-a50d-9073196fae2f" style="height: 160px"></a>  
-     <img src="https://streak-stats.demolab.com?user=Mel-iza&theme=buefy&stroke=D88D8D&sideNums=E99898&dates=8D8FEB&ring=FFA8A9&sideLabels=BE4116&fire=7957d5&currStreakLabel=EB5454&currStreakNum=EB8D61&border_radius=10&date_format=j%20M%5B%20Y%5D" style="height: 160px">
+     <img src="https://github.com/user-attachments/assets/a47b2344-a381-4bbe-a50d-9073196fae2f" style="height: 200px"></a>  
   </div>
 </div>
 
