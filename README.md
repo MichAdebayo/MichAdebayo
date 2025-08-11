@@ -224,7 +224,7 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
    </div>
    <div style="text-align: center; width: 70%; margin: 0 auto;">
         <p style="text-align: center; margin: 10px 0;">
-        Happy to connect! and I'd be glad to collaborate on AI (including ML and NLP) projects,<br>
+        Happy to connect! and I'd be glad to collaborate on data and AI (including ML and NLP) projects,<br>
         discussing the latest developments in tech, sharing game recommendations 
         (FPG, RPG and sports preferred!)<br>and exploring opportunities in the field!
         </p>
