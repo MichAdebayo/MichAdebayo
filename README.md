@@ -217,8 +217,7 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
 
 <!-- LETS CONNECT -->
 <div align="center">
-   <img align=center height="33px" src="https://github.com/user-attachments/assets/e5ac8b61-cafe-4d22-87ef-36a0f134a1dd">
-       <!--<p style="text-align: justify; margin: 0;">-->
+   <img align=center height="33px" style="display: flex; align-items: center"; src="https://github.com/user-attachments/assets/e5ac8b61-cafe-4d22-87ef-36a0f134a1dd">
        <p style="text-align: justify; width: 70% !important; margin: 0 auto !important;">  
         Feel free to contact me! I'm opened for collaborations on AI/NLP projects, <br>
         discussions about women in tech initiatives, sharing game recommendations 
@@ -226,7 +225,7 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
           <div style="display: inline-block; align-items: center;">
           <!-- how to reach me -->
             <!--<img height="22px" align-items: center src="https://github.com/user-attachments/assets/49b2fc92-a1d9-4409-8ea9-d86ed6ff57f3" style="display: flex"><br>-->
-          <!-- Ícones -->
+          <!-- Icons -->
              <!-- LINKEDIN -->
            <a href="https://www.linkedin.com/in/mel-augusto/" style="text-decoration: none;">
                <img src="https://github.com/user-attachments/assets/ad7b2ccf-017c-493d-b1e3-8a34fe9d2ee8" height="35px" alt="Linkedin"></a>  
