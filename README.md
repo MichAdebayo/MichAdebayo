@@ -1,5 +1,5 @@
 <!-- PROFILE BANNER-->
-<img align="center" width="1200" height="450" alt="Image" src="https://github.com/user-attachments/assets/1e2bb33b-7452-45c3-930e-0e5240470df9" />
+<img align="center" width="1200" height="450" alt="Image" src="https://github.com/user-attachments/assets/76da3479-fba4-4bc9-8306-54a1a66744cc" />
 
 <!-- SEPARATOR-->
 <img src="https://github.com/user-attachments/assets/162e6b9c-571d-43a8-8281-582ee1d7dfaa">
