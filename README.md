@@ -220,7 +220,7 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
 <div align="center" style="margin: 20px 0;">
    <!-- Center the title image -->
    <div align="center" style="margin-bottom: 15px;">
-      <img height="33px" src="https://github.com/user-attachments/assets/e5ac8b61-cafe-4d22-87ef-36a0f134a1dd">
+      <img height="33px" src="https://github.com/user-attachments/assets/9715324f-2fcb-46c7-87e4-fb74503df819">
    </div>
    <div style="text-align: center; width: 70%; margin: 0 auto;">
         <p style="text-align: center; margin: 10px 0;">
