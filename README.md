@@ -215,7 +215,29 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
   </table>
   </div>
 
-   
+<!-- EXTRACURRICULAR ACTIVITIES -->
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/2e4b53a5-044f-4b8c-8cf3-afe5bffdf61c" height="33px"><br>
+  <div align="center">
+
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github.com/user-attachments/assets/3458ce63-6d7d-493e-9745-a1020c07e125" height="90px"><br>
+        <b>Supporting and encouraging women in technology.</b><br>
+        I have the honor of participating in two amazing communities in the field.<br>
+        Check their work for incredible initiatives supporting women in tech!
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github.com/user-attachments/assets/cc3746ad-ee1f-48cb-a9d4-30f93bd76b14" height="90px"><br>
+        <img height="16px" src="https://github.com/user-attachments/assets/e96bad79-b21f-41cc-b4b2-7f06da9a32ed" /> <b>Anime lover</b>: My favorites are Naruto & Boruto<br>
+        <img height="16px" src="https://github.com/user-attachments/assets/e96bad79-b21f-41cc-b4b2-7f06da9a32ed" /> <b>Experienced gamer</b>: COD, EFootball, Ghostland, FIFA<br>
+        <img height="16px" src="https://github.com/user-attachments/assets/e96bad79-b21f-41cc-b4b2-7f06da9a32ed" /> <b>Book genres</b>: Tech, Relationship, Philosophy, Biography<br>
+        <img height="16px" src="https://github.com/user-attachments/assets/e96bad79-b21f-41cc-b4b2-7f06da9a32ed" /> <b>Sports</b>: Football (played Coup de France in 2021/2022 season), Tennis, Bowling, Athletics
+      </td>
+    </tr>
+  </table>
+  </div>
 
 <!-- SEPARATOR -->
 <img src="https://github.com/user-attachments/assets/162e6b9c-571d-43a8-8281-582ee1d7dfaa">
