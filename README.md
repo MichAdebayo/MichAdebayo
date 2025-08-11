@@ -180,12 +180,11 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
 <br>
 
 <!-- KAGGLE CARD -->
-<div align="center" style="width: 100%; overflow-x: auto; text-align: center;">
-  <div style="display: inline-flex; gap: 10px; align-items: center;">
-     <a href="https://www.kaggle.com/michaeladebayo99" style="text-decoration: none;">
-     <img src="https://github.com/user-attachments/assets/a47b2344-a381-4bbe-a50d-9073196fae2f" style="height: 200px"></a>  
-  </div>
+<div align="center" style="overflow-x: auto;">
+    <a href="https://www.kaggle.com/michaeladebayo99" style="text-decoration: none;">
+    <img src="https://github.com/user-attachments/assets/a47b2344-a381-4bbe-a50d-9073196fae2f" style="height: 200px width"></a>  
 </div>
+
 
 <!--
 <div align="center">
