@@ -197,10 +197,7 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
     <tr>
       <td align="justify" width="50%" style="padding: 20px; vertical-align: middle;">
         <img src="https://github.com/user-attachments/assets/3458ce63-6d7d-493e-9745-a1020c07e125" style="height:32px; width:auto !important; display:inline-block;"><br>
-        <b>Support international students in their scholarship applications.</b><br>
-        I have had the privilege of helping over 50 prospective students secure scholarships through targeted essay reviews, interactive webinars, and personalized training. 
-        <b>Interest in animal care.</b><br>
-        One of my recent volunteer interests is supporting local animal care centers.
+        I have had the privilege of helping over 50 prospective students secure scholarships through targeted essay reviews, interactive webinars, and personalized training. Also, one of my recent volunteer interests is supporting local animal care centers.
       </td>
       <td align="justify" width="50%" style="padding: 20px; vertical-align: middle;">
         <img src="https://github.com/user-attachments/assets/cc3746ad-ee1f-48cb-a9d4-30f93bd76b14" style="height:32px; width:auto !important; display:inline-block;"><br>
