@@ -181,7 +181,7 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
 <!-- KAGGLE CARD -->
 <div align="center">
     <a href="https://www.kaggle.com/michaeladebayo99" style="text-decoration: none;">
-    <img src="https://github.com/user-attachments/assets/05245aa4-a62b-4991-91e6-1435f1c37477" style="height: 400px; width: 90%;"></a>  
+    <img src="https://github.com/user-attachments/assets/05245aa4-a62b-4991-91e6-1435f1c37477" style="height: 300px; width: 74%;"></a>  
 </div>
 
  <!-- SEPARATOR --> 
@@ -221,8 +221,8 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
 
    
 
-<!-- SEPARADOR -->
-<img src="https://github.com/user-attachments/assets/15c00b71-2105-44b8-bb91-f0d5431b9613"> 
+<!-- SEPARATOR -->
+<img src="https://github.com/user-attachments/assets/162e6b9c-571d-43a8-8281-582ee1d7dfaa">
 
 
 <!-- LETS CONNECT -->
