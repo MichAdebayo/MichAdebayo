@@ -256,7 +256,7 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
 <br>
    <!-- YEAR -->  
    <div align="center">
-      <img align=center src="https://github.com/user-attachments/assets/39674fa5-08ee-4149-a28f-858d4d35c785" height="25px">
+      <img align=center src="https://github.com/user-attachments/assets/39674fa5-08ee-4149-a28f-858d4d35c785" height="20px">
    </div>
 </div>
 
