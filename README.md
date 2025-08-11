@@ -211,41 +211,10 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
   </table>
   </div>
 
+
 <!-- SEPARATOR -->
 <img src="https://github.com/user-attachments/assets/162e6b9c-571d-43a8-8281-582ee1d7dfaa">
 
-
-<!-- LETS CONNECT -->
-<div style="display: flex; justify-content: center; align-items: center;">
-   <img height="33px" src="https://github.com/user-attachments/assets/e5ac8b61-cafe-4d22-87ef-36a0f134a1dd">
-       <p style="text-align: justify; width: 70% !important; margin: 0 auto !important;">  
-        Happy to connect! and I'd be glad to collaborate on AI (including ML and NLP) projects, <br>
-        discussing the latest developments in tech, sharing game recommendations 
-        (FPG, RPG and sports preferred!) <br>and exploring opportunities in the field!<br>      
-          <div style="display: inline-block; align-items: center;">
-          <!-- Icons -->
-             <!-- LINKEDIN -->
-           <a href="https://www.linkedin.com/in/mel-augusto/" style="text-decoration: none;">
-               <img src="https://github.com/user-attachments/assets/ad7b2ccf-017c-493d-b1e3-8a34fe9d2ee8" height="35px" alt="Linkedin"></a>  
-         <!-- EMAIL --> 
-            <a href="mailto:meliza.caug@gmail.com" style="text-decoration: none;">
-                <img src="https://github.com/user-attachments/assets/4454590c-64fe-4bb4-94fe-355dc170e850" height="35px" width=""></a>
-         <!-- HOTMAIL -->
-         <a href="mailto:mel.augusto@fatec.sp.gov.br" style="text-decoration: none;">
-             <img src="https://github.com/user-attachments/assets/65c12352-c536-4c01-a887-0e2991c53c15" height="35px" width=""></a>
-         <!-- DISCORD -->
-         <a href="#" onclick="alert('mel7514'); return false;" style="text-decoration: none;"> 
-             <img src="https://github.com/user-attachments/assets/1860a872-59c1-4651-a9ab-c98ecdcb3b2a" height="35px" width=""></a>
-         <!-- HUGGINGFACE -->
-         <a href="https://huggingface.co/Mel-Iza0" style="text-decoration: none;"> 
-             <img src="https://github.com/user-attachments/assets/214036e7-f154-47b1-91ba-b1e84097b588" height="35px" width=""></a>
-        <!-- LATTES -->
-         <a href="http://lattes.cnpq.br/3726468291337472" style="text-decoration: none;"> 
-             <img src="https://github.com/user-attachments/assets/cb83dc39-e7cd-4a42-8b7c-fa2ea97c39de" height="35px" width=""></a>
-        </div>
-      </p>
-</div>
-</div>
 
 <!-- LETS CONNECT -->
 <div align="center" style="margin: 20px 0;">
