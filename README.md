@@ -247,39 +247,37 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
 </div>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; text-align: center;">
-  <!-- Profile Image -->
-  <img height="33px" src="https://github.com/user-attachments/assets/e5ac8b61-cafe-4d22-87ef-36a0f134a1dd" style="margin-right: 15px;">
-
-  <!-- Text + Icons -->
-  <div style="max-width: 70%;">
-    <p style="margin: 0 0 10px 0;">
-      Happy to connect! I’d be glad to collaborate on AI (including ML and NLP) projects,<br>
-      discuss the latest developments in tech, share game recommendations<br>
-      (FPS, RPG, and sports preferred!), and explore opportunities in the field!
-    </p>
-    <!-- Icons -->
-    <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-      <a href="https://www.linkedin.com/in/mel-augusto/">
-        <img src="https://github.com/user-attachments/assets/ad7b2ccf-017c-493d-b1e3-8a34fe9d2ee8" height="35px">
-      </a>
-      <a href="mailto:meliza.caug@gmail.com">
-        <img src="https://github.com/user-attachments/assets/4454590c-64fe-4bb4-94fe-355dc170e850" height="35px">
-      </a>
-      <a href="mailto:mel.augusto@fatec.sp.gov.br">
-        <img src="https://github.com/user-attachments/assets/65c12352-c536-4c01-a887-0e2991c53c15" height="35px">
-      </a>
-      <a href="#" onclick="alert('mel7514'); return false;">
-        <img src="https://github.com/user-attachments/assets/1860a872-59c1-4651-a9ab-c98ecdcb3b2a" height="35px">
-      </a>
-      <a href="https://huggingface.co/Mel-Iza0">
-        <img src="https://github.com/user-attachments/assets/214036e7-f154-47b1-91ba-b1e84097b588" height="35px">
-      </a>
-      <a href="http://lattes.cnpq.br/3726468291337472">
-        <img src="https://github.com/user-attachments/assets/cb83dc39-e7cd-4a42-8b7c-fa2ea97c39de" height="35px">
-      </a>
-    </div>
-  </div>
+<!-- LETS CONNECT -->
+<div align="center" style="margin: 20px 0;">
+   <img height="33px" src="https://github.com/user-attachments/assets/e5ac8b61-cafe-4d22-87ef-36a0f134a1dd" style="margin-bottom: 10px;">
+   <div style="text-align: center; width: 70%; margin: 0 auto;">
+        <p style="text-align: center; margin: 10px 0;">
+        Happy to connect! and I'd be glad to collaborate on AI (including ML and NLP) projects,<br>
+        discussing the latest developments in tech, sharing game recommendations 
+        (FPG, RPG and sports preferred!)<br>and exploring opportunities in the field!
+        </p>
+        <div style="display: flex; justify-content: center; align-items: center; gap: 10px; margin-top: 15px;">
+          <!-- Icons -->
+             <!-- LINKEDIN -->
+           <a href="https://www.linkedin.com/in/mel-augusto/" style="text-decoration: none;">
+               <img src="https://github.com/user-attachments/assets/ad7b2ccf-017c-493d-b1e3-8a34fe9d2ee8" height="35px" alt="Linkedin"></a>  
+         <!-- EMAIL --> 
+            <a href="mailto:meliza.caug@gmail.com" style="text-decoration: none;">
+                <img src="https://github.com/user-attachments/assets/4454590c-64fe-4bb4-94fe-355dc170e850" height="35px"></a>
+         <!-- HOTMAIL -->
+         <a href="mailto:mel.augusto@fatec.sp.gov.br" style="text-decoration: none;">
+             <img src="https://github.com/user-attachments/assets/65c12352-c536-4c01-a887-0e2991c53c15" height="35px"></a>
+         <!-- DISCORD -->
+         <a href="#" onclick="alert('mel7514'); return false;" style="text-decoration: none;"> 
+             <img src="https://github.com/user-attachments/assets/1860a872-59c1-4651-a9ab-c98ecdcb3b2a" height="35px"></a>
+         <!-- HUGGINGFACE -->
+         <a href="https://huggingface.co/Mel-Iza0" style="text-decoration: none;"> 
+             <img src="https://github.com/user-attachments/assets/214036e7-f154-47b1-91ba-b1e84097b588" height="35px"></a>
+        <!-- LATTES -->
+         <a href="http://lattes.cnpq.br/3726468291337472" style="text-decoration: none;"> 
+             <img src="https://github.com/user-attachments/assets/cb83dc39-e7cd-4a42-8b7c-fa2ea97c39de" height="35px"></a>
+        </div>
+   </div>
 </div>
 
 
