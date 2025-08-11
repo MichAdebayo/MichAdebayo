@@ -238,10 +238,10 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
                 <img src="https://github.com/user-attachments/assets/7659cdee-e68d-4d0e-b083-27f4b8f5d1a2" height="20px"></a>
          <!-- DISCORD -->
          <a href="https://discord.com/users/1292782019205402645" onclick="alert('mikolinton'); return false;" style="text-decoration: none;"> 
-             <img src="https://github.com/user-attachments/assets/16143f2a-509e-4cfb-ba97-4e426b484247" height="25px"></a>
+             <img src="https://github.com/user-attachments/assets/16143f2a-509e-4cfb-ba97-4e426b484247" height="20px"></a>
          <!-- HUGGINGFACE -->
          <a href="https://huggingface.co/Mikolinton" style="text-decoration: none;"> 
-             <img src="https://github.com/user-attachments/assets/c1aae297-843d-4ad4-9555-822a541ddbc5" height="30px"></a>
+             <img src="https://github.com/user-attachments/assets/c1aae297-843d-4ad4-9555-822a541ddbc5" height="26px"></a>
         </div>
    </div>
 </div>
