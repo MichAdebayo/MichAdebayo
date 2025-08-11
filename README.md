@@ -197,7 +197,7 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
   <table style="table-layout: fixed; width: 100%; border-collapse: collapse;">
     <tr>
       <td align="justify" width="50%" style="padding: 20px; vertical-align: middle;">
-        <img src="https://github.com/user-attachments/assets/ec84af2a-1f0f-4c65-8c76-74b63c27820e" style="height:32px; width=200px !important; display:inline-block;"><br>
+        <img src="https://github.com/user-attachments/assets/29c95023-fa3a-4996-b236-22b4e9740b15" style="height:32px; width=400px !important;"><br>
         I have had the privilege of helping over 50 prospective students secure scholarships through targeted essay reviews, interactive webinars, and personalized training. Also, one of my recent interests is supporting local animal care centers.
       </td>
       <td align="justify" width="50%" style="padding: 20px; vertical-align: middle;">
