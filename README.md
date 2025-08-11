@@ -216,7 +216,7 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
 
 
 <!-- LETS CONNECT -->
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
    <img height="33px" src="https://github.com/user-attachments/assets/e5ac8b61-cafe-4d22-87ef-36a0f134a1dd">
        <p style="text-align: justify; width: 70% !important; margin: 0 auto !important;">  
         Feel free to contact me! I'm opened for collaborations on AI/NLP projects, <br>
@@ -244,11 +244,7 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
              <img src="https://github.com/user-attachments/assets/cb83dc39-e7cd-4a42-8b7c-fa2ea97c39de" height="35px" width=""></a>
         </div>
       </p>
-
-   
 </div>
-   
-
 </div>
 
 <br>
