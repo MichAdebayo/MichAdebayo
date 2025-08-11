@@ -249,7 +249,10 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
 
 <!-- LETS CONNECT -->
 <div align="center" style="margin: 20px 0;">
-   <img height="33px" src="https://github.com/user-attachments/assets/e5ac8b61-cafe-4d22-87ef-36a0f134a1dd" style="margin-bottom: 10px;">
+   <!-- Center the title image -->
+   <div align="center" style="margin-bottom: 15px;">
+      <img height="33px" src="https://github.com/user-attachments/assets/e5ac8b61-cafe-4d22-87ef-36a0f134a1dd">
+   </div>
    <div style="text-align: center; width: 70%; margin: 0 auto;">
         <p style="text-align: center; margin: 10px 0;">
         Happy to connect! and I'd be glad to collaborate on AI (including ML and NLP) projects,<br>
