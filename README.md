@@ -187,7 +187,7 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
  <!-- SEPARATOR --> 
 <img src="https://github.com/user-attachments/assets/162e6b9c-571d-43a8-8281-582ee1d7dfaa">
 
-<!--BEYOND WORK-->
+<!-- EXTRACURRICULAR ACTIVITIES -->
 <div align="left "style="display: block;">
       <img src="https://github.com/user-attachments/assets/2e4b53a5-044f-4b8c-8cf3-afe5bffdf61c" height="33px"> <br>
       <!-- FIRM BELIEVER IN -->
@@ -209,7 +209,7 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
       <td style="padding: 20px; text-align: justify; vertical-align: top; width: 50%;">
         <img src="https://github.com/user-attachments/assets/044e576a-3779-4c19-be36-2a8290a1512a" height="18px" style="vertical-align: middle; margin-right: 5px;">
   <span><br>
-     &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /><b> RPG enthusiast</b>: My favorite D&D class is monk <br>
+     &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /><b> Anime lover </b>: My favorites are Naruto & Boruto<br>
      &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> <b> Gaming lover</b>: Stardew Valley, Monster Hunter, Skyrim<br>
      &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> <b> Horror genre addic</b>: Both in books and movies<br>
      &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> <b> Naturally curious</b>: Forever exploring new knowledge areas<br>
