@@ -171,7 +171,7 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
        
 <br>
 
-<!-- SEPARADOR &nbsp&nbsp -->
+<!-- SEPARATOR TYPE 2 -->
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c7c20736-f080-4ef0-be58-34c5b514df10" 
        width="950" 
@@ -179,6 +179,7 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
 </div>
 <br>
 
+<!-- KAGGLE CARD -->
 <div align="center" style="width: 100%; overflow-x: auto; text-align: center;">
   <div style="display: inline-flex; gap: 10px; align-items: center;">
      <a href="https://www.kaggle.com/michaeladebayo99" style="text-decoration: none;">
