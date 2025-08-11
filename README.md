@@ -217,7 +217,7 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
 
 <!-- LETS CONNECT -->
 <div align="center">
-   <img align=center height="33px" src="https://github.com/user-attachments/assets/b755a694-44be-4faa-a430-6d86b4f5d6d0">
+   <img align=center height="33px" src="https://github.com/user-attachments/assets/e5ac8b61-cafe-4d22-87ef-36a0f134a1dd">
        <!--<p style="text-align: justify; margin: 0;">-->
        <p style="text-align: justify; width: 70% !important; margin: 0 auto !important;">  
         Feel free to contact me! I'm opened for collaborations on AI/NLP projects, <br>
