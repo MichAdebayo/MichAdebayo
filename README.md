@@ -189,7 +189,7 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
 
 <!--BEYOND WORK-->
 <div align="left "style="display: block;">
-      <img src="https://github.com/user-attachments/assets/8deb1302-6d7d-427d-8773-83aee38e75cc" height="33px"> <br>
+      <img src="https://github.com/user-attachments/assets/2e4b53a5-044f-4b8c-8cf3-afe5bffdf61c" height="33px"> <br>
       <!-- FIRM BELIEVER IN -->
          <div style="text-align: center; font-size: 10px; margin: 10px 0; padding-left: 20px;">
 
