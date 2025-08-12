@@ -4,7 +4,6 @@
 <!-- SEPARATOR-->
 <img src="https://github.com/user-attachments/assets/198c82bc-d8ef-4081-9b5a-c4bb6df4ea3d">
 
-<!-- https://github.com/user-attachments/assets/162e6b9c-571d-43a8-8281-582ee1d7dfaa -->
 
 <!-- HELLO WELCOME TO MY GITHUB PROFILE-->
 <div align="center" style="margin-bottom: 60px;">
