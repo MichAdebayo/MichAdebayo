@@ -58,7 +58,7 @@
 </div>
 
 <!-- SEPARATOR -->
-<img src="https://github.com/user-attachments/assets/162e6b9c-571d-43a8-8281-582ee1d7dfaa"> 
+<img src="https://github.com/user-attachments/assets/198c82bc-d8ef-4081-9b5a-c4bb6df4ea3d"> 
 
 
 <!-- TECH STACK -->
@@ -141,7 +141,7 @@
 From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>, <b>Prometheus</b>, <b>N8N</b>, <b>Snowflake</b>, <b>Kafka</b>, and <b>dbt</b>,<br>
 
 <!-- SEPARATOR-->
-<img src="https://github.com/user-attachments/assets/162e6b9c-571d-43a8-8281-582ee1d7dfaa">
+<img src="https://github.com/user-attachments/assets/198c82bc-d8ef-4081-9b5a-c4bb6df4ea3d">
 
 
 <!-- PROJECTS AND TOPICS OF INTEREST -->
@@ -187,7 +187,7 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
 </div>
 
  <!-- SEPARATOR --> 
-<img src="https://github.com/user-attachments/assets/162e6b9c-571d-43a8-8281-582ee1d7dfaa">
+<img src="https://github.com/user-attachments/assets/198c82bc-d8ef-4081-9b5a-c4bb6df4ea3d">
 
 <!-- https://github.com/user-attachments/assets/3458ce63-6d7d-493e-9745-a1020c07e125 -->
 
@@ -215,7 +215,7 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
 
 
 <!-- SEPARATOR -->
-<img src="https://github.com/user-attachments/assets/162e6b9c-571d-43a8-8281-582ee1d7dfaa">
+<img src="https://github.com/user-attachments/assets/198c82bc-d8ef-4081-9b5a-c4bb6df4ea3d">
 
 
 <!-- LETS CONNECT -->
