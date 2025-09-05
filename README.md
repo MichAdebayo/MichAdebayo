@@ -255,8 +255,6 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
    </div>
 
    <p align="right">
-      <a href="https://shields.io/" target="_blank"><img alt="GitHub followers" src="https://img.shields.io/github/followers/MichAdebayo?style=flat&label=Followers" alt="GitHub followers badge"></a>
-      <a href="https://shields.io/" target="_blank"><img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/MichAdebayo?style=flat&label=Stars" alt="GitHub stars badge"></a>
       <a href="https://github.com/antonkomarev/github-profile-views-counter/" target=_blank"><img src="https://komarev.com/ghpvc/?username=MichAdebayo&label=Views" alt="GitHub views badge"></a>
   </p>
 </div>
