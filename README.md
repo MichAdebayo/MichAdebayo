@@ -14,8 +14,8 @@
 <!-- <div align="center" style="width:80%; overflow-x: auto; margin: 30px auto 0; display: block">   -->
 <div align="center" style="width:80%; overflow-x: auto; margin: 30px auto 0; display: block"> 
      <!-- MY VERCEL APP -->
-    <!-- <img style="width: 450px; height: 80%;" src="https://github-readme-stats.vercel.app/api?username=MichAdebayo&show_icons=true&rank_icon=github&hide_rank=false&show=discussions_started&card_width=400px&theme=radical&border_radius=5.5&line_height=20&number_format=long" alt="GitHub Stats"> -->
-    <img style="width: 328px; height: 80%;" src="http://github-profile-summary-cards-umber.vercel.app/api/cards/repos-per-language?username=MichAdebayo&theme=github" alt="Top Languages">
+    <img style="width: 450px; height: 80%;" src="https://github-readme-stats.vercel.app/api?username=MichAdebayo&show_icons=true&rank_icon=github&hide_rank=false&show=discussions_started&card_width=400px&theme=github&border_radius=5.5&line_height=20&number_format=long" alt="GitHub Stats">
+    <!-- <img style="width: 328px; height: 80%;" src="http://github-profile-summary-cards-umber.vercel.app/api/cards/repos-per-language?username=MichAdebayo&theme=github" alt="Top Languages"> -->
 </div>
 
 <!-- GIT TROPHIES -->
