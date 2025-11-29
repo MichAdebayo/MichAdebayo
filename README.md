@@ -44,7 +44,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichAdebayo&layout=compact&langs_count=8&hide_progress=false&theme=radical&border_radius=8" 
       alt="Top Languages"
     />
-</div> -->
+<!-- </div> --> -->
 
 <!-- GIT TROPHIES -->
 <div align="center" display="block" style="width:20%; overflow-x: auto; margin: 20px auto;">
