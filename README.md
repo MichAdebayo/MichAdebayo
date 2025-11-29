@@ -11,42 +11,22 @@
 </div><br>
 
 <!-- FIRST TWO CARDS--> 
-
 <!-- GITHUB STATS CARDS -->
-<!-- <div align="center">
+<!-- GITHUB STATS CARDS -->
+<div align="center">
   <a href="https://github.com/MichAdebayo">
     <img 
       height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=MichAdebayo&show_icons=true&count_private=true&rank_icon=github&show=prs_merged,discussions_started&theme=radical&border_radius=8&card_width=450" 
+      src="https://github-readme-stats.vercel.app/api?username=MichAdebayo&show_icons=true&count_private=true&rank_icon=github&show=prs_merged,discussions_started&theme=radical&border_radius=8" 
       alt="GitHub Stats"
     />
   </a>
   <a href="https://github.com/MichAdebayo">
     <img 
       height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichAdebayo&layout=compact&langs_count=8&theme=radical&border_radius=8&card_width=380" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichAdebayo&layout=compact&langs_count=8&theme=radical&border_radius=8" 
       alt="Top Languages"
     />
-  </a>
-</div> -->
-
-<div align="center" style="width:80%; overflow-x:auto; margin: 30px auto 0; display:flex; justify-content:center; gap:24px; flex-wrap:wrap;"> 
-  <!-- MY VERCEL APP -->
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/MichAdebayo" style="text-decoration:none;">
-  <img 
-    style="width: 420px; max-width: 100%; height: auto; display:inline-block;" 
-    src="https://github-readme-stats.vercel.app/api?username=MichAdebayo&show_icons=true&count_private=true&rank_icon=github&show=prs_merged,issues,discussions_started&theme=radical&border_radius=8&number_format=long" 
-    alt="GitHub Stats"
-  />
-    </a>
-  <!-- Top Languages Card -->
-  <a href="https://github.com/MichAdebayo" style="text-decoration:none;">
-  <img 
-    style="width: 360px; max-width: 100%; height: auto; display:inline-block;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichAdebayo&layout=compact&langs_count=8&theme=radical&border_radius=8" 
-    alt="Top Languages"
-  />
   </a>
 </div>
 
