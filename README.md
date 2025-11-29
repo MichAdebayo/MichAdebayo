@@ -11,35 +11,51 @@
 </div><br>
 
 <!-- FIRST TWO CARDS--> 
-<!-- GITHUB STATS CARDS -->
+
 <!-- GITHUB STATS CARDS -->
 <div align="center">
   <a href="https://github.com/MichAdebayo">
     <img 
       height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=MichAdebayo&show_icons=true&count_private=true&rank_icon=github&show=prs_merged,discussions_started&theme=radical&border_radius=8" 
+      src="https://github-readme-stats.vercel.app/api?username=MichAdebayo&show_icons=true&count_private=true&rank_icon=github&show=prs_merged,discussions_started&theme=radical&border_radius=8&card_width=450" 
       alt="GitHub Stats"
     />
   </a>
   <a href="https://github.com/MichAdebayo">
     <img 
       height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichAdebayo&layout=compact&langs_count=8&theme=radical&border_radius=8" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichAdebayo&layout=compact&langs_count=8&theme=radical&border_radius=8&card_width=380" 
       alt="Top Languages"
     />
   </a>
 </div>
 
+<div align="center" style="width:80%; overflow-x: auto; margin: 30px auto 0; display: block"> 
+     <!-- MY VERCEL APP -->
+     <!-- GitHub Stats Card -->
+    <img 
+      style="width: 450px; height: auto;" 
+      src="https://github-readme-stats.vercel.app/api?username=MichAdebayo&show_icons=true&count_private=true&rank_icon=github&show=prs_merged,issues,discussions_started&theme=radical&border_radius=8&number_format=long" 
+      alt="GitHub Stats"
+    />
+     <!-- Top Languages Card -->
+    <img 
+      style="width: 380px; height: auto;" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichAdebayo&layout=compact&langs_count=8&theme=radical&border_radius=8" 
+      alt="Top Languages"
+    />
+</div>
+
 <!-- GIT TROPHIES -->
-<div align="center" style="width:100%; overflow-x:auto; margin: 20px auto;">
-  <img style="max-width: 770px; width: 100%; height: auto;" src="https://github-profile-trophy.vercel.app/?username=MichAdebayo&no-frame=true&theme=dracula&title=Joined2020,Repositories,Experience,Star,Followers,Commit,PR,Issues&column=8&row=1&margin-w=10" alt="GitHub Trophies"> <br>
+<div align="center" display="block" style="width:20%; overflow-x: auto; margin: 20px auto;">
+   <img height="300cm" width="300cm" style="max-width: 770px; width: 770px; height: 95px;" src="https://github-profile-trophy.vercel.app/?username=MichAdebayo&no-frame=true&theme=dracula&title=Joined2020,Repositories,Experience,Star,Followers,Commit,PR,Issues&column=8&row=1&margin-w=10"> <br>
 </div><br>
 
 <!-- ABOUT ME -->   
 <div align="justify">
 <img src="https://github.com/user-attachments/assets/2d9e35f5-c9b2-4f6e-873e-d30b7043c706" height="33px"><br>
 <div align="justify">
-  <span style="display: block; text-align: center; font-size: 12px;"> 
+   <span style="display: block; text-align: center; font-size: 12px;" 
 
 <img height="12px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2"> Hello, I'm Michael (He/him) and I hold a <b>PhD. in Environmental Geosciences</b> from <b>Aix-Marseille</b>. During my doctoral studies, I leveraged a state-of-the-art imaging machine to generate images, trained multiple convolutional neural networks (CNNs), and developed models for predicting temperatures in the Indian Ocean. My education also includes degrees in Botany and <b>professional certifications in Data Science and AI Development</b>. <b>As a Data Scientist at Insitoo Freelances, I specialize in building machine learning models and integrating NLP systems into our platform</b>. My primary focus is on <b>developing recommendation systems that provide data-driven recommendations, increasing the probability of a successful match between clients and freelancers</b>. With growing expertise in MLOps & DevOps, I enjoy leveraging automation, machine learning and AI in creating value in the workplace.
 
@@ -49,7 +65,7 @@
      <!-- COLLABORATION AND CURIOSITY -->
    <div style="display: flex; align-items: flex-start; justify-content: center; font-size: 12px; margin: 6px 0; padding-left: 14px;">
       <img src="https://github.com/user-attachments/assets/559a5b79-fc9b-4f15-b5b6-c1d3dcd6f158" height="18px" style="vertical-align: middle; margin-right: 5px;">
-  <span>
+  <span">
     fuel my drive to exchange ideas, ask insightful questions, and explore creative solutions.  
   </span>  <br>
       <!-- CONTINUOUS LEARNING -->
@@ -180,7 +196,7 @@ From left to right: <b>AWS</b>, <b>Kubernetes</b>, <b>Flask</b>, <b>Grafana</b>,
        <img align="center" height="18px" style="max-width:px ; width:; height:18px ;" src="https://github.com/user-attachments/assets/6d395979-8b9a-43ea-a589-8b4c69fe21ce" alt="Worklflow Automation">
        <img align="center" height="18px" style="max-width:px ; width:; height:18px ;" src="https://github.com/user-attachments/assets/a106b0d8-22d0-4f0d-b790-a48a68362593" alt="AI Agents">
        <img align="center" height="18px" style="max-width:px ; width:; height:18px ;" src="https://github.com/user-attachments/assets/8500327f-7c33-430b-949b-5fc1417d881e" alt="RAG">
-      <img align="center" height="18px" style="max-width:px ; width:; height:18px ;" src="https://github.com/user-attachments/assets/e6f6901d-9878-4639-84dc-c3ed09061382" alt="Software Engineering">
+       <img align="center" height="18px" style="max-width:px ; width:; height:18px ;" src="https://github.com/user-attachments/assets/e6f6901d-9878-4639-84dc-c3ed09061382"" alt="Software Engineering">
        </div>
        
 <br>
