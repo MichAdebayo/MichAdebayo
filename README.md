@@ -16,8 +16,7 @@
      <!-- GitHub Stats Card -->
     <img 
       style="width: 450px; height: auto;" 
-      src="https://github-readme-stats.vercel.app/api?username=MichAdebayo&show_icons=true&count_private=true&rank_icon=github&show=prs_merged,issues,discussions_started&theme=radical&border_radius=8&number_format=long" 
-      alt="GitHub Stats"
+      src="https://github-readme-stats-cyyin.vercel.app/api?username=MichAdebayo&count_private=true&show_icons=true&theme=tokyonight&hide_border=false&hide_title=true&show_owner=true&show=discussions_answered&disable_animations=false)"
     />
      <!-- Top Languages Card -->
     <img 
