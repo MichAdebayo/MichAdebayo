@@ -11,37 +11,18 @@
 </div><br>
 
 <!-- FIRST TWO CARDS--> 
-
-<!-- GITHUB STATS CARDS -->
-<div align="center">
-  <a href="https://github.com/MichAdebayo">
-    <img 
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=MichAdebayo&show_icons=true&count_private=true&rank_icon=github&show=prs_merged,discussions_started&theme=radical&border_radius=8&card_width=450" 
-      alt="GitHub Stats"
-    />
-  </a>
-  <a href="https://github.com/MichAdebayo">
-    <img 
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichAdebayo&layout=compact&langs_count=8&theme=radical&border_radius=8&card_width=380" 
-      alt="Top Languages"
-    />
-  </a>
-</div>
-
 <div align="center" style="width:80%; overflow-x: auto; margin: 30px auto 0; display: block"> 
      <!-- MY VERCEL APP -->
      <!-- GitHub Stats Card -->
     <img 
       style="width: 450px; height: auto;" 
-      src="https://github-readme-stats.vercel.app/api?username=MichAdebayo&show_icons=true&count_private=true&rank_icon=github&show=prs_merged,issues,discussions_started&theme=radical&border_radius=8&number_format=long" 
+      src="https://github-readme-stats.vercel.app/api?username=MichAdebayo&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&show=prs_merged,issues,discussions_started&theme=radical&border_radius=8&number_format=long" 
       alt="GitHub Stats"
     />
      <!-- Top Languages Card -->
     <img 
       style="width: 380px; height: auto;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichAdebayo&layout=compact&langs_count=8&theme=radical&border_radius=8" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichAdebayo&layout=compact&langs_count=8&hide_progress=false&theme=radical&border_radius=8" 
       alt="Top Languages"
     />
 </div>
