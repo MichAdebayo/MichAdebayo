@@ -21,7 +21,7 @@
      <!-- Top Languages Card -->
     <img 
       style="width: 380px; height: auto;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichAdebayo&layout=compact&langs_count=8&hide_progress=false&theme=radical&border_radius=8" 
+      src="https://github-readme-stats-cyyin.vercel.app/api/top-langs/?username=MichAdebayo&layout=compact&langs_count=8&hide_progress=false&theme=radical&border_radius=8" 
       alt="Top Languages"
     />
 </div>
