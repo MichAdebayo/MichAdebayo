@@ -27,23 +27,7 @@
   />
 </div>
 
-
-
 <!-- FIRST TWO CARDS--> 
-<div align="center" style="width:80%; overflow-x: auto; margin: 30px auto 0; display: block"> 
-     <!-- MY VERCEL APP -->
-     <!-- GitHub Stats Card -->
-    <!-- <img 
-      style="width: auto; height: auto;" 
-      src="https://github-readme-stats-cyyin.vercel.app/api?username=MichAdebayo&count_private=true&show_icons=true&theme=tokyonight&hide_border=false&hide_title=true&show_owner=true&show=discussions_answered&disable_animations=false)"
-    /> -->
-     <!-- Top Languages Card -->
-    <img 
-      style="width: auto; height: auto;" 
-      src="https://github-readme-stats-cyyin.vercel.app/api/top-langs/?username=MichAdebayo&layout=compact&langs_count=8&hide_progress=false&theme=radical&border_radius=8" 
-      alt="Top Languages"
-    />
-</div>
 
 <!-- ABOUT ME -->   
 <div align="justify">
