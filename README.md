@@ -18,12 +18,23 @@
   />
 </div>
 
-<div align="center" style="width:100%;">
-  <img
-    src="https://github-profile-trophy-fork-two.vercel.app/?username=MichAdebayo&no-frame=true&theme=dracula&title=Joined2020,Repositories,Experience,Star,Followers,Commit,PR,Issues&column=8&row=1&margin-w=10"
-    alt="GitHub trophies"
-    style="width:100%; max-width:1200px; height:auto; display:block; margin:20px auto;"
-  />
+<div style="width:100%;">
+  <div style="max-width:1200px; margin:20px auto; display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
+    <div style="flex: 1 1 380px; max-width:600px;">
+      <img
+        src="https://github-profile-trophy-fork-two.vercel.app/?username=MichAdebayo&no-frame=true&theme=dracula&title=Joined2020,Repositories,Experience,Star,Followers,Commit,PR,Issues&column=8&row=1&margin-w=10"
+        alt="GitHub trophies"
+        style="width:100%; height:auto; display:block;"
+      />
+    </div>
+    <div style="flex: 1 1 380px; max-width:600px;">
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=MichAdebayo&theme=dracula"
+        alt="GitHub streaks"
+        style="width:100%; height:auto; display:block;"
+      />
+    </div>
+  </div>
 </div>
 
 
