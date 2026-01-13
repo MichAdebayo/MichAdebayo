@@ -27,12 +27,13 @@
 </div>
 
 <!-- GIT TROPHIES -->
-<div align="center">
-  <img 
-    src="https://github-readme-quotes.vercel.app/api?theme=dracula" 
-    alt="GitHub Quote"
+<<div align="center">
+  <img
+    src="https://github-readme-stats.demolab.com/api?username=MichAdebayo&show_icons=true&theme=dracula&hide_border=true"
+    alt="GitHub stats"
   />
 </div>
+
 
 
 <!-- <div align="center" display="block" style="width:20%; overflow-x: auto; margin: 20px auto;">
