@@ -18,17 +18,15 @@
   />
 </div>
 
+
 <div align="center" style="width:100%;">
-  <div style="max-width:1200px; margin:20px auto; display:flex; justify-content:center;">
-    <div style="width:100%; max-width:900px;">
-      <img
-        src="https://github-profile-trophy-fork-two.vercel.app/?username=MichAdebayo&no-frame=true&theme=dracula&title=Joined2020,Repositories,Experience,Star,Followers,Commit,PR,Issues,Contributions&column=9&row=1&margin-w=10"
-        alt="GitHub trophies"
-        style="width:100%; height:auto; display:block; margin:0 auto;"
-      />
-    </div>
-  </div>
+  <img
+    src="https://github-profile-trophy-fork-two.vercel.app/?username=MichAdebayo&no-frame=true&theme=dracula&title=Joined2020,Repositories,Experience,Star,Followers,Commit,PR,Issues,Contributions&column=9&row=1&margin-w=10"
+    alt="GitHub trophies"
+    style="width:100%; height:auto; display:block;"
+  />
 </div>
+
 
 
 <!-- FIRST TWO CARDS--> 
