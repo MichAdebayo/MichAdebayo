@@ -23,11 +23,26 @@
   <img
     src="https://github-profile-trophy-fork-two.vercel.app/?username=MichAdebayo&no-frame=true&theme=dracula&title=Joined2020,Repositories,Experience,Star,Followers,Commit,PR,Issues,Contributions&column=9&row=1&margin-w=10"
     alt="GitHub trophies"
-    style="width:100%; height:auto; display:block;"
+    style="width:100%; max-width:1200px; height:auto; display:block; margin:0 auto;"
   />
 </div>
 
 <!-- FIRST TWO CARDS--> 
+<!-- <div align="center" style="width:100%; max-width:1200px; margin: 30px auto;">
+  <div style="display:flex; gap:20px; justify-content:center; align-items:flex-start; flex-wrap:wrap;">
+    <img
+      src="https://github-readme-stats-cyyin.vercel.app/api?username=MichAdebayo&count_private=true&show_icons=true&theme=tokyonight&hide_border=false&hide_title=true&show_owner=true&show=discussions_answered&disable_animations=false"
+      alt="GitHub Stats"
+      style="width:100%; max-width:580px; height:auto; display:block;"
+    />
+    <img
+      src="https://github-readme-stats-cyyin.vercel.app/api/top-langs/?username=MichAdebayo&layout=compact&langs_count=8&hide_progress=false&theme=radical&border_radius=8"
+      alt="Top Languages"
+      style="width:100%; max-width:400px; height:auto; display:block;"
+    />
+  </div>
+</div> -->
+
 
 <!-- ABOUT ME -->   
 <div align="justify">
