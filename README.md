@@ -27,9 +27,11 @@
 </div>
 
 <!-- GIT TROPHIES -->
-<div align="center" display="block" style="width:20%; overflow-x: auto; margin: 20px auto;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MichAdebayo&theme=dracula" />
+
+<!-- <div align="center" display="block" style="width:20%; overflow-x: auto; margin: 20px auto;">
    <img height="300cm" width="300cm" style="max-width: 770px; width: 770px; height: 95px;" src="https://github-profile-trophy-winning.vercel.app/?username=MichAdebayo&no-frame=true&theme=dracula&title=Joined2020,Repositories,Experience,Star,Followers,Commit,PR,Issues&column=8&row=1&margin-w=10"> <br>
-</div><br>
+</div><br> -->
 
 <!-- ABOUT ME -->   
 <div align="justify">
