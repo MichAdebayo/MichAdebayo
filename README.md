@@ -27,7 +27,7 @@
 </div>
 
 <!-- GIT TROPHIES -->
-<<div align="center">
+<div align="center">
   <img
     src="https://github-readme-stats.demolab.com/api?username=MichAdebayo&show_icons=true&theme=dracula&hide_border=true"
     alt="GitHub stats"
