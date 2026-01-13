@@ -29,8 +29,8 @@
 <!-- GIT TROPHIES -->
 <div align="center">
   <img
-    src="https://github-readme-stats.demolab.com/api?username=MichAdebayo&show_icons=true&theme=dracula&hide_border=true"
-    alt="GitHub stats"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MichAdebayo&theme=dracula"
+    alt="Profile summary"
   />
 </div>
 
