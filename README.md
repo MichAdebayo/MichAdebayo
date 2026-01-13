@@ -5,10 +5,11 @@
 <img src="https://github.com/user-attachments/assets/198c82bc-d8ef-4081-9b5a-c4bb6df4ea3d">
 
 <!-- GIT TROPHIES -->
-<div align="center">
+<div align="center" style="width:100%;">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MichAdebayo&theme=dracula"
     alt="Profile summary"
+    style="width:100%; max-width:1200px; height:auto; display:block; margin:0 auto;"
   />
 </div>
 
