@@ -4,6 +4,11 @@
 <!-- SEPARATOR-->
 <img src="https://github.com/user-attachments/assets/198c82bc-d8ef-4081-9b5a-c4bb6df4ea3d">
 
+<!-- HELLO WELCOME TO MY GITHUB PROFILE-->
+<div align="center" style="margin-bottom: 60px;">
+  <img src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" width="30px" height="30px" align="middle"><img src="https://github.com/user-attachments/assets/0689f59f-78eb-415d-88e3-9d3888fda98c" width="89%" align="middle"><img src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" width="30px" height="30px" align="middle"><br>
+</div><br>
+
 <!-- GIT TROPHIES -->
 <div align="center" style="width:100%;">
   <img
@@ -13,14 +18,14 @@
   />
 </div>
 
-<div align="center" display="block" style="width:20%; overflow-x: auto; margin: 20px auto;">
-   <img height="300cm" width="300cm" style="max-width: 770px; width: 770px; height: 95px;" src="https://github-profile-trophy-fork-two.vercel.app/?username=MichAdebayo&no-frame=true&theme=dracula&title=Joined2020,Repositories,Experience,Star,Followers,Commit,PR,Issues&column=8&row=1&margin-w=10"> <br>
-</div><br>
+<div align="center" style="width:100%;">
+  <img
+    src="https://github-profile-trophy-fork-two.vercel.app/?username=MichAdebayo&no-frame=true&theme=dracula&title=Joined2020,Repositories,Experience,Star,Followers,Commit,PR,Issues&column=8&row=1&margin-w=10"
+    alt="GitHub trophies"
+    style="width:100%; max-width:1200px; height:auto; display:block; margin:20px auto;"
+  />
+</div>
 
-<!-- HELLO WELCOME TO MY GITHUB PROFILE-->
-<div align="center" style="margin-bottom: 60px;">
-  <img src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" width="30px" height="30px" align="middle"><img src="https://github.com/user-attachments/assets/0689f59f-78eb-415d-88e3-9d3888fda98c" width="89%" align="middle"><img src="https://github.com/Mel-iza/Mel-iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64" width="30px" height="30px" align="middle"><br>
-</div><br>
 
 <!-- FIRST TWO CARDS--> 
 <div align="center" style="width:80%; overflow-x: auto; margin: 30px auto 0; display: block"> 
